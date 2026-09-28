@@ -1,0 +1,8 @@
+Python: Python 3.11.15
+Cores used: 4 (--workers 4; machine has 4)
+Total run time: 5305 s (1 h 28 min 25 s), wall clock, fit + SHAP + LIME
+
+numpy             2.4.6
+pandas            3.0.6
+scikit-learn      1.9.1
+shap              0.51.0

@@ -1,0 +1,144 @@
+{
+  "model": "RandomForest(n_estimators=300, random_state=42), refit on all 32,593 rows",
+  "n_rows_shap": 32593,
+  "shap_top15": [
+    {
+      "feature": "n_assessments_submitted",
+      "mean_abs_shap": 0.15272811037209957,
+      "value_shap_corr": -0.8636495368311496
+    },
+    {
+      "feature": "active_days",
+      "mean_abs_shap": 0.079106808144998,
+      "value_shap_corr": -0.8986431661280915
+    },
+    {
+      "feature": "mean_score",
+      "mean_abs_shap": 0.06822786962425162,
+      "value_shap_corr": -0.7927056177011697
+    },
+    {
+      "feature": "total_clicks",
+      "mean_abs_shap": 0.058910468211259136,
+      "value_shap_corr": -0.7437872447268341
+    },
+    {
+      "feature": "min_score",
+      "mean_abs_shap": 0.02940721866442433,
+      "value_shap_corr": -0.7147225733611352
+    },
+    {
+      "feature": "mean_days_late",
+      "mean_abs_shap": 0.020164361179979644,
+      "value_shap_corr": 0.03228054590405164
+    },
+    {
+      "feature": "code_module_FFF",
+      "mean_abs_shap": 0.018408820502427398,
+      "value_shap_corr": 0.8423984183603003
+    },
+    {
+      "feature": "n_late_submissions",
+      "mean_abs_shap": 0.017613937776283183,
+      "value_shap_corr": -0.6287572070635812
+    },
+    {
+      "feature": "clicks_7d_before_deadline",
+      "mean_abs_shap": 0.015253001110066043,
+      "value_shap_corr": -0.4635599204828561
+    },
+    {
+      "feature": "clicks_14d_before_deadline",
+      "mean_abs_shap": 0.014799049675636293,
+      "value_shap_corr": -0.4105396071092989
+    },
+    {
+      "feature": "clicks_28d_before_deadline",
+      "mean_abs_shap": 0.011839031382797885,
+      "value_shap_corr": 0.318919425537627
+    },
+    {
+      "feature": "module_presentation_length",
+      "mean_abs_shap": 0.011098196313063165,
+      "value_shap_corr": -0.6047707127297184
+    },
+    {
+      "feature": "code_module_EEE",
+      "mean_abs_shap": 0.008614789532250158,
+      "value_shap_corr": -0.8507696581546107
+    },
+    {
+      "feature": "mean_daily_clicks",
+      "mean_abs_shap": 0.0077838540417339095,
+      "value_shap_corr": -0.24919165474972405
+    },
+    {
+      "feature": "highest_education_Lower Than A Level",
+      "mean_abs_shap": 0.00770912365455283,
+      "value_shap_corr": 0.8154253102429941
+    }
+  ],
+  "lime_top10": [
+    {
+      "feature": "n_assessments_submitted",
+      "mean_abs_lime_weight": 0.17043232687975554
+    },
+    {
+      "feature": "mean_score",
+      "mean_abs_lime_weight": 0.06630415043386231
+    },
+    {
+      "feature": "active_days",
+      "mean_abs_lime_weight": 0.06608122676274975
+    },
+    {
+      "feature": "code_module_FFF",
+      "mean_abs_lime_weight": 0.053881713779274386
+    },
+    {
+      "feature": "age_band_55<=",
+      "mean_abs_lime_weight": 0.052267178064375655
+    },
+    {
+      "feature": "total_clicks",
+      "mean_abs_lime_weight": 0.04697938695931704
+    },
+    {
+      "feature": "highest_education_No Formal quals",
+      "mean_abs_lime_weight": 0.043262054161628136
+    },
+    {
+      "feature": "n_banked",
+      "mean_abs_lime_weight": 0.04078956742611747
+    },
+    {
+      "feature": "highest_education_Post Graduate Qualification",
+      "mean_abs_lime_weight": 0.03886692079517855
+    },
+    {
+      "feature": "code_module_EEE",
+      "mean_abs_lime_weight": 0.03862507644096767
+    }
+  ],
+  "lime_instances": 40,
+  "lime_seed": 42,
+  "lime_num_samples": 1000,
+  "mean_top5_overlap": 0.525,
+  "sd_top5_overlap": 0.1880824287380403,
+  "shared_top10_features": [
+    "active_days",
+    "code_module_FFF",
+    "mean_score",
+    "n_assessments_submitted",
+    "total_clicks"
+  ],
+  "top2_agree": false,
+  "shap_top2": [
+    "n_assessments_submitted",
+    "active_days"
+  ],
+  "lime_top2": [
+    "n_assessments_submitted",
+    "mean_score"
+  ]
+}

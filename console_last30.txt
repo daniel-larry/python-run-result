@@ -1,0 +1,30 @@
+      "feature": "highest_education_Post Graduate Qualification",
+      "mean_abs_lime_weight": 0.03886692079517855
+    },
+    {
+      "feature": "code_module_EEE",
+      "mean_abs_lime_weight": 0.03862507644096767
+    }
+  ],
+  "lime_instances": 40,
+  "lime_seed": 42,
+  "lime_num_samples": 1000,
+  "mean_top5_overlap": 0.525,
+  "sd_top5_overlap": 0.1880824287380403,
+  "shared_top10_features": [
+    "active_days",
+    "code_module_FFF",
+    "mean_score",
+    "n_assessments_submitted",
+    "total_clicks"
+  ],
+  "top2_agree": false,
+  "shap_top2": [
+    "n_assessments_submitted",
+    "active_days"
+  ],
+  "lime_top2": [
+    "n_assessments_submitted",
+    "mean_score"
+  ]
+}
