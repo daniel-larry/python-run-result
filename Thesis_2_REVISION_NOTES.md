@@ -48,11 +48,17 @@ File: `Thesis_2_revised.docx`. The supervisor's tracked changes are accepted and
 
 ## Needs your manual review (not guessed)
 1. **Missing references, now added (verified on the web from publisher/indexing pages):** Gunning & Aha (2019), Chatti et al. (2012), Viberg et al. (2018), Larrabee Sønderlund et al. (2019), Aljohani et al. (2019), Conati et al. (2021), Wachter et al. (2018), Kouki et al. (2020), Sedrakyan et al. (2020), Bodily & Verbert (2017), Miteva & Stefanova (2022). In-text spellings were corrected to match: Thüs, Bälter, Järvelä, Larrabee Sønderlund, and "Hassan et al." became "Hassan". "Leitner et al. (2022)" could not be found anywhere; the claim matches Leitner, Ebner & Ebner (2019), already listed and cited for the same point in Chapter 4, so the year was corrected to 2019. **The list now has 117 references.**
-2. **Still unresolved:**
-   - **Rodríguez-Ortiz et al. (2022, J. Intelligent & Fuzzy Systems, DOI 10.3233/JIFS-211603):** no indexed record exists for this DOI or title. **It very likely does not exist.** It is the only support for the CommonKADS-in-education claim in 3.1 and 6.4. Replace it with a real source or remove those sentences.
-   - **Alharbi & Janarthanan:** the paper exists but has a third author (D. Midhunchakkaravarthy), and sources disagree on the year (2024 vs 2026). The volume and DOI could not be confirmed.
-   - **Li, Wong & Chan (2020):** a 2024 journal version exists (Int. J. Innovation and Learning, 36(5)), apparently with Liu rather than Chan as an author. Please confirm which version you used.
-   - **Adadi & Berrada (2018):** the latency claim was removed as unverifiable.
+2. **Unresolved references, now resolved** (checked on Crossref, OpenAlex and the publisher sites):
+   - **Rodríguez-Ortiz et al. (2022): removed, because it does not exist.**
+     - DOI 10.3233/JIFS-211603 was never issued, and no database has the title.
+     - The Section 3.1 paragraph that rested only on this source was removed.
+     - The comparison sentence in 6.4 and the reference entry were removed too.
+   - **Alharbi & Janarthanan: replaced.**
+     - The article appeared only on lettersinbiomath.org, which issues no DOIs. The registered *Letters in Biomathematics* (ISSN 2373-7867) has issued none since 2021, which suggests the site is a hijacked or cloned journal.
+     - The site no longer lists the article.
+     - It was replaced by **Hooshyar & Yang (2024), *IEEE Access*, 12, 137472–137490, doi:10.1109/ACCESS.2024.3463948**, a peer-reviewed comparison of SHAP and LIME in education. The wording in 5.8 and 6.3 follows its abstract.
+   - **Li, Wong & Chan: corrected.** It is a 2023 Springer chapter (pp. 119–128, doi:10.1007/978-981-99-8255-4_11), not a 2020 university report.
+   - Adadi & Berrada (2018): the latency claim was removed earlier as unverifiable.
 3. **2025/2026 references:** no 2026 papers were in the folder. The OULAD claim now cites Gunasekara & Saarela (2025), Jin et al. (2024), Wang (2025) and Kuzilek et al. (2017).
 4. **Appendix A:** now completed from the Docker image (see "Chapter 4 updated to the working prototype" below).
 5. **Appendix B:** calculation entries marked "(inferred)" come from feature names, because the feature-engineering code was not supplied. The model includes a `withdrew_before_start` feature that the thesis text never mentions. Please check how it is derived and whether it relates too closely to the at-risk label.
@@ -145,4 +151,4 @@ Everything else was confirmed in place:
   - the working-prototype wording.
 - **References:** consistent APA; the unused ones (Creswell, Braun & Clarke, etc.) removed; Jivet (2021) replaced by Kaliisa, Jivet & Prinsloo (2023); Waterson (2014) removed.
 
-Still open, because it needs web access or your input: the three unverified references (Rodríguez-Ortiz, Alharbi & Janarthanan, Li et al.), and your own paper reference in Section 1.5 once it is published.
+Still open: your own paper reference in Section 1.5, to add once it is published. The three previously unverified references are now resolved (see item 2 above).
