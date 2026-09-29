@@ -54,7 +54,7 @@ File: `Thesis_2_revised.docx`. The supervisor's tracked changes are accepted and
    - **Li, Wong & Chan (2020):** a 2024 journal version exists (Int. J. Innovation and Learning, 36(5)), apparently with Liu rather than Chan as an author. Please confirm which version you used.
    - **Adadi & Berrada (2018):** the latency claim was removed as unverifiable.
 3. **2025/2026 references:** no 2026 papers were in the folder. The OULAD claim now cites Gunasekara & Saarela (2025), Jin et al. (2024), Wang (2025) and Kuzilek et al. (2017).
-4. **Appendix A (yellow highlights):** Python version, hardware, Git commit, model artefact ID and the other package versions are not recorded anywhere in the materials. Please fill these in.
+4. **Appendix A:** now completed from the Docker image (see "Chapter 4 updated to the working prototype" below).
 5. **Appendix B:** calculation entries marked "(inferred)" come from feature names, because the feature-engineering code was not supplied. The model includes a `withdrew_before_start` feature that the thesis text never mentions. Please check how it is derived and whether it relates too closely to the at-risk label.
 6. **Removed claims you may wish to restore if true:** Figma prototyping; Git version control; the use-case, ER and sequence diagrams (now described as "not reproduced in this thesis"); unit tests and CI (now described as planned).
 7. **SHAP population:** the text now says the final model was fitted on all 32,593 observations. This follows from Sections 4.7 and 5.6 together; please confirm.
@@ -82,13 +82,38 @@ The earlier Chapter 4 described a deployment that was never built: Cloudflare Pa
 - **Abbreviations:** CDN, JWKS and KV were removed because they are no longer used; SIS was added.
 - **Unchanged:** all 107 comments are still anchored, there are no em dashes, and the validator output is identical to the previous version's.
 
-**Needs your decision: the model numbers do not match.** The figures now show the rebuilt model's out-of-fold results, but Chapters 4 to 6, the abstract and Figure 4.3 still report the numbers from your original run. The data and class counts are identical (17,208 at risk, 15,385 not at risk); only the fitted model differs slightly.
+**Results updated to the prototype's model.** All results were recomputed from the model run in Docker (model version `xgb-20260929-112741`). The values were replaced throughout:
+- the abstract;
+- Chapter 4: Section 4.6 and Figure 4.3;
+- Chapter 5: Tables 5.1 to 5.5, Figures 5.1 to 5.5, and the text;
+- Chapters 6 and 7;
+- Appendices A and B.
 
-| Metric | Thesis text | Rebuilt prototype (shown in Figures 4.6 and 4.7) |
+| Metric | Before | Now |
 |---|---|---|
-| Accuracy | 0.8804 (88.0%) | 0.8774 |
-| F1 | 0.890 | 0.8867 |
-| Recall | 0.9125 (15,702 of 17,208) | 0.9085 (15,634) |
-| AUC | 0.964 | 0.9624 |
+| Accuracy | 0.8804 | 0.8774 |
+| Precision | 0.8678 | 0.8659 |
+| Recall | 0.9125 | 0.9085 |
+| F1 | 0.8896 | 0.8867 |
+| AUC | 0.9642 | 0.9624 |
+| Confusion matrix (TN, FP / FN, TP) | 12,994, 2,391 / 1,506, 15,702 | 12,963, 2,422 / 1,574, 15,634 |
+| Random Forest F1 | 0.9010 | 0.8976 (still the highest F1; XGBoost still has the highest recall) |
+| SHAP/LIME top-5 overlap | 0.595 (sd 0.192) | 0.635 (sd 0.197) |
 
-Either update the numbers throughout to the rebuilt model, or state in 4.6 that the screenshots come from a re-run of the pipeline whose results differ slightly from those reported.
+**Statements whose meaning changed, not only their numbers.** Please read these:
+- **The 28-day click window:** the claim that it outranks total clicks is **no longer confirmed**. Total clicks (0.382) now ranks just above it (0.311). Section 5.7 ("Finding not confirmed"), 5.12, 6.2 and 6.3 now say so.
+- **Second-ranked SHAP feature:** now active days (0.709), not mean score. n_assessments_submitted leads by more than four times rather than three.
+- **SHAP and LIME agreement:** they now share 7 of their top 10 features instead of 8. The features on which they differ are listed in 5.6.
+- **Counts:** 59 transformed features, not 60; the feature table has 28 columns, not 29.
+- **Removed as no longer true:**
+  - "raw OULAD CSV files were not available" (5.10);
+  - "newer library versions" (5.7, 6.2, 6.4);
+  - "tested LTI" integration (6.4);
+  - pyarrow/parquet (Table 4.1): the pipeline writes CSV.
+- **Appendix A:** Python, package versions, hardware, commit and model identifier are now filled in from the Docker image. The yellow placeholders are gone.
+
+**Figure 4.7** now shows both authentication paths:
+- (a) Moodle's login page, after which Moodle supplies the role and course;
+- (b) the dashboard sign-in inside a Canvas course.
+
+In Figures 4.7(b) and 4.9, Canvas's notice for plain-HTTP embeds ("You are trying to launch insecure content…") was hidden when the screenshots were taken. The 2017 Canvas image shows it for every `http://` link, and it would disappear with HTTPS.
