@@ -121,3 +121,28 @@ The earlier Chapter 4 described a deployment that was never built: Cloudflare Pa
 - (b) the dashboard sign-in inside a Canvas course.
 
 In Figures 4.7(b) and 4.9, Canvas's notice for plain-HTTP embeds ("You are trying to launch insecure content…") was hidden when the screenshots were taken. The 2017 Canvas image shows it for every `http://` link, and it would disappear with HTTPS.
+
+## Compliance check against all 107 comments (final pass)
+Each comment's anchored text and each thesis-wide concern was checked against the current document. Three leftovers were fixed:
+- **C36:** Chapter 3 no longer points to "scheduled scoring" in Chapter 4, since the nightly job was part of the removed hosted setup.
+- **C90:** Section 3.2 no longer claims the design is "improving usability". It now states that usability was not measured.
+- **C53:** Section 4.3 now says "prototype codebase" and "prototype pipeline" instead of "production" and "productionisation".
+
+Everything else was confirmed in place:
+- **Structure:**
+  - every chapter and back-matter section starts on a new page;
+  - the ToC includes Chapters 6 and 7 (with 6.12 and 7.5), References and Appendices;
+  - the lists of figures and tables and their page numbers are regenerated.
+- **Words removed or limited:**
+  - "systematic" is used only for other authors' reviews;
+  - "early warning" appears only as a stated limitation or as future work;
+  - SMOTE, TPE, calibration and five-fold CV appear only in Chapter 2, Section 3.4.1 and Chapter 5's comparison;
+  - "pseudonymised", "student records", "manageable" and the student-facing view are gone.
+- **Statements now in the text:**
+  - the TAM design-lens sentence;
+  - fairness and stability described as "not completed";
+  - the three mandatory future-work items;
+  - the working-prototype wording.
+- **References:** consistent APA; the unused ones (Creswell, Braun & Clarke, etc.) removed; Jivet (2021) replaced by Kaliisa, Jivet & Prinsloo (2023); Waterson (2014) removed.
+
+Still open, because it needs web access or your input: the three unverified references (Rodríguez-Ortiz, Alharbi & Janarthanan, Li et al.), and your own paper reference in Section 1.5 once it is published.
