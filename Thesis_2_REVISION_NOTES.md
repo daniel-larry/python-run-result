@@ -63,3 +63,32 @@ File: `Thesis_2_revised.docx`. The supervisor's tracked changes are accepted and
 
 ## Unused literature-folder papers
 Not cited, to avoid adding new arguments: Leichtmann et al. (2023), Embarak & Hawarna (2024, RADAR), Ben George et al. (2025, JISEM), Adelodun et al. (2025), Park & Jo (2015). Vlachogianni & Tselios (2022) is in the folder but was removed, as the supervisor directed (no SUS study was conducted).
+
+## Chapter 4 updated to the working prototype (second pass)
+The earlier Chapter 4 described a deployment that was never built: Cloudflare Pages, a Cloudflare Worker with Workers KV and a nightly cron, Render hosting, an LTI 1.3 launch into Moodle through Cloudflare Tunnel, and mock-up LMS screenshots. It now describes the system in `xai-dashboard/`, which was run and tested end to end in Docker.
+- **Text:**
+  - **4.1 introduction:** the reference to hosting providers was removed.
+  - **Table 4.1:** the edge/gateway, LTI/jose, hosting and LMS rows were replaced with the real components: gunicorn, the `local_xairisk` Moodle plugin, the Canvas External URL embed, LMS data synchronisation, Moodle 5.2, and Docker Compose. The typo "libjay" was also corrected to "lbjay".
+  - **4.8:** the Worker-based role check was replaced by the real design. The dashboard's own JWT login is used for direct and Canvas access. The Moodle plugin checks Moodle capabilities, then calls the API with a shared service key.
+  - **4.10.1 Moodle:** now describes the native plugin; the courses, users and enrolments loaded (22, 28,785 and 32,593); and the cross-role and cross-course access tests.
+  - **4.10.2 Canvas:** the SIS import of the 22 courses and the dashboard module added to each.
+  - **4.11 Prototype Deployment Topology:** now describes a single Docker Compose deployment, cached cohort results and the frame-ancestors policy.
+  - **4.12 Summary:** the list of languages was updated.
+- **Figures:** all are screenshots or diagrams of the running prototype, and every caption keeps "Screenshot from the prototype development" (comment 59). Nothing else in Chapter 4 was mocked up.
+  - **4.1:** a new architecture diagram.
+  - **4.4 to 4.7:** the dashboard served by the Docker container. The instructor view was changed to show SHAP and LIME side by side, as the thesis describes.
+  - **4.8:** the Moodle plugin inside course FFF-2014J.
+  - **4.9:** the dashboard embedded in Canvas course FFF-2014J.
+- **Abbreviations:** CDN, JWKS and KV were removed because they are no longer used; SIS was added.
+- **Unchanged:** all 107 comments are still anchored, there are no em dashes, and the validator output is identical to the previous version's.
+
+**Needs your decision: the model numbers do not match.** The figures now show the rebuilt model's out-of-fold results, but Chapters 4 to 6, the abstract and Figure 4.3 still report the numbers from your original run. The data and class counts are identical (17,208 at risk, 15,385 not at risk); only the fitted model differs slightly.
+
+| Metric | Thesis text | Rebuilt prototype (shown in Figures 4.6 and 4.7) |
+|---|---|---|
+| Accuracy | 0.8804 (88.0%) | 0.8774 |
+| F1 | 0.890 | 0.8867 |
+| Recall | 0.9125 (15,702 of 17,208) | 0.9085 (15,634) |
+| AUC | 0.964 | 0.9624 |
+
+Either update the numbers throughout to the rebuilt model, or state in 4.6 that the screenshots come from a re-run of the pipeline whose results differ slightly from those reported.
