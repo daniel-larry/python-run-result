@@ -101,7 +101,11 @@ The earlier Chapter 4 described a deployment that was never built: Cloudflare Pa
 | SHAP/LIME top-5 overlap | 0.595 (sd 0.192) | 0.635 (sd 0.197) |
 
 **Statements whose meaning changed, not only their numbers.** Please read these:
-- **The 28-day click window:** the claim that it outranks total clicks is **no longer confirmed**. Total clicks (0.382) now ranks just above it (0.311). Section 5.7 ("Finding not confirmed"), 5.12, 6.2 and 6.3 now say so.
+- **The 28-day click window:** whether it outranks total clicks is now reported as a **robustness check** (Section 5.7), and the result is that the order **cannot be settled from a single model**.
+  - The two features are near-duplicates, with a Spearman correlation of 0.98.
+  - In 8 refits of the model with different random seeds (`xai-dashboard/ml/seed_stability.py`), the 28-day window ranked higher in 4 of them.
+  - Their combined importance stays stable, between 0.57 and 0.69.
+  - Sections 5.6, 5.12, 6.2, 6.3 and Appendix A were updated to match. The measured correlation also supports the collinearity explanation for the 28-day window's counter-intuitive sign.
 - **Second-ranked SHAP feature:** now active days (0.709), not mean score. n_assessments_submitted leads by more than four times rather than three.
 - **SHAP and LIME agreement:** they now share 7 of their top 10 features instead of 8. The features on which they differ are listed in 5.6.
 - **Counts:** 59 transformed features, not 60; the feature table has 28 columns, not 29.
