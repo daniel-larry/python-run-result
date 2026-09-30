@@ -171,3 +171,28 @@ instead applied onto the current thesis, which keeps all of those.
   "the the", "level,,", "ad" for "and"; US spellings "toward" and "counterintuitive" kept British.
 - Meaning slips corrected: "the authors did not test it" (the untested condition belongs to this study, so it now
   reads "this study did not test it"), and a comma removed in "plausible and the underlying prediction is wrong".
+
+## Chapter 1 plain-language pass (27 flagged sentences)
+
+Accepted as proposed: 4, 6, 7, 9, 13, 14, 15, 19, 20, 21, 22, 23, 24, 25, 26.
+
+Accepted with a change:
+- 1: keeps "guided by" the CommonKADS knowledge engineering methodology.
+- 2: keeps "for student risk prediction in higher education", so the contribution stays specific.
+- 3: keeps "and divergence". The 0.635 SHAP/LIME overlap is a divergence finding. Also keeps trust,
+  interpretation and decision quality as what future studies would test.
+- 5: the proposed second sentence repeated the one after it, so the two were merged. The Kuzilek et al. (2017)
+  citation is kept.
+- 6: the Rebelo Marcolino et al. (2025) citation is kept.
+- 8: keeps the point that a prediction affects both the student and the professional judgement of whoever acts on it.
+- 10, 11: the citations are kept. Sentence 11 still says "few domain-specific frameworks", which is what Al-Ansari
+  (2024) supports. The proposed "few studies use" would be a different claim.
+- 12: keeps "future research with practitioners should address these questions".
+- 16 (RQ2): keeps "can be specified". The proposed "can support" would claim an effect that was never tested
+  (supervisor comment 4). Updated identically in Chapters 1, 6 and 7.
+- 18: keeps "LMS-integrated" (the prototype runs inside Moodle and Canvas) and "differentiates".
+- 27: "sets out the study's limitations", to avoid "discusses ... discusses".
+
+Not applied:
+- 17 (RQ3): the "proposedrole-aware" typo was already fixed. The rewrite dropped "technical" from "technical
+  potential", which was added to answer supervisor comment 4, and RQ3 is restated verbatim in Chapters 6 and 7.
