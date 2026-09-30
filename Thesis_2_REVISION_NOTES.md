@@ -196,3 +196,37 @@ Accepted with a change:
 Not applied:
 - 17 (RQ3): the "proposedrole-aware" typo was already fixed. The rewrite dropped "technical" from "technical
   potential", which was added to answer supervisor comment 4, and RQ3 is restated verbatim in Chapters 6 and 7.
+
+## "Systematic" dropped from the study's own claims
+
+- RQ1 now asks how SHAP and LIME "can be integrated", in Chapters 1, 6 and 7.
+- Section 6.12 no longer describes the integration as "systematic". Section 3.3 now says "an explicit analysis" of each
+  role's knowledge needs.
+- The word stays where it names cited systematic reviews (Jin et al., Albreiki et al., Viberg et al. and others), and
+  in "systematic disparities" (Baker and Hawn). Those are accurate descriptions of other work.
+
+## Chapter 2 plain-language pass (46 flagged sentences)
+
+Accepted as proposed: 3, 4, 5, 7, 8, 11, 13, 14, 15, 16, 17, 18, 20, 22, 24, 25, 26, 27, 28, 30, 33, 34, 35, 36,
+37, 38, 39, 42, 43, 44, 45, 46. Nos. 13, 24, 35, 39 and 40 also soften absolute claims ("dominant", "all", "none",
+"not conceptualised", "original"), in line with supervisor comment 27.
+
+Accepted with a change:
+- 1: "Technical, methodological, and evaluation work", as in the original. The proposed "dashboard design" changed
+  what the five gaps are.
+- 2: "designs ... against a common knowledge engineering specification". The next sentence already says the study
+  brings these areas together, so "brings together" would have repeated it.
+- 6: grammar ("has given less attention to", not "has received less attention to").
+- 9, 31: the proposal covered only the first half of each sentence. The second half ("and that models which
+  optimize ...", "and they call for designs ...") is kept.
+- 10: Chatti et al. is a learning analytics reference model, not a dashboard model. It now reads "a central design
+  concern" rather than "part of dashboard design".
+- 12: keeps "This is the central premise of the study."
+- 23: split as proposed. "Did not systematically address" (Gunning and Aha) became "did not address in depth".
+- 29: "these earlier reviews", which is what the sentence refers to.
+- 32: keeps the knowledge each role brings, the point that links this passage to CommonKADS.
+- 40, 41: citations kept: Schreiber et al. (2000); Al-Ansari (2024) and Kim et al. (2024).
+
+Not applied:
+- 19, 21: "refinements" kept. SMOTE, Bayesian optimisation, calibration and trajectory features are techniques, not
+  "issues". The proposal for 21 also used em dashes, which the thesis does not use.
