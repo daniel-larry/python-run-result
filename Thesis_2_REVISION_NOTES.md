@@ -258,3 +258,25 @@ Accepted with a change:
 - 41: keeps the section reference and that no primary data were collected from any group.
 - 43: keeps "even when overall accuracy is high", which is the point of Yu et al. (2020).
 - 45: keeps "only" in "TAM is used only as a design lens". The thesis states elsewhere that TAM is not evaluated.
+
+## Plain-language pass on Chapters 4 to 6 (self-flagged), plus the rest of the second flag list
+
+Method, following the author's flag lists: sentences of about 50 words or more; stock phrasing ("surfaces",
+"foregrounds", "genuine", "positioned", "What the X is ...", "substantive", "consequential"); and abstract nouns used
+where a verb would do. Long sentences were split, and stock words were replaced with plain ones ("shows",
+"reveals", "emphasises"). No number, citation or hedge was changed. About 60 edits.
+
+- Second flag list: items 3 (TAM paragraph), 4 (Lundberg/Ribeiro, 5.8), 5 (partial agreement, 6.x), 6 ("positioned
+  on the side of that argument"), 7 (design science paragraph), 8 ("what learning analytics is for"), 16 (Chapter 1
+  limitations sentence), 18 ("normative argument") and 19 ("hierarchical") applied. Items 1, 2 and 9 to 15 were
+  already done in the previous passes.
+- Item 7: the new wording says the study "also draws on" design science. It no longer says "additionally informed
+  by", which conflicted with the next paragraph naming DSRM as the overarching methodology.
+- Item 4: keeps that the 0.635 overlap is not a finding specific to student data.
+- Chapter 4: 20 edits (opening, OULAD scope, layering, Colab, the Miller sentence, which had a grammar slip, model
+  manifest, local explanation service, service-key authentication, role header, reasoning trail, LMS integration,
+  Sculley, chapter summary).
+- Chapter 5: 16 edits (accuracy under mild imbalance, confusion matrix caution, per-presentation reporting,
+  literature comparison paragraphs, 5.9 to 5.12 summaries).
+- Chapter 6: 22 edits (operating point, reasoning trail, CommonKADS reflection, practitioner-response paragraph,
+  "positioned" sentence, Nigeria transfer, and the 92-word summary sentence, now four sentences).
