@@ -319,3 +319,12 @@ Still open (no edit can close these):
 - Section 1.5: the author's own paper to be added once published.
 - The comments must be answered and resolved in Google Docs by the author. The .docx keeps them as anchors, as
   requested.
+
+## Section 3.7: code repository and test configuration (comments 46 to 48, follow-up)
+
+At the author's request, Section 3.7 now states that the prototype source code is held in a version-controlled Git
+repository (https://github.com/daniel-larry/python-run-result). It lists what the repository contains and says that
+the trained model and SHAP cache are rebuilt from OULAD on first start rather than stored. It also explains that the
+repository includes an environment configuration file with test-only credentials for the local Docker services, so
+that other reviewers can run the prototype without further setup. The testing/CI pipeline is still described as
+planned. The thesis also still says that no formal FAIR archive with a persistent identifier has been made.
