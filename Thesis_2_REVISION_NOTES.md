@@ -152,3 +152,22 @@ Everything else was confirmed in place:
 - **References:** consistent APA; the unused ones (Creswell, Braun & Clarke, etc.) removed; Jivet (2021) replaced by Kaliisa, Jivet & Prinsloo (2023); Waterson (2014) removed.
 
 Still open: your own paper reference in Section 1.5, to add once it is published. The three previously unverified references are now resolved (see item 2 above).
+
+## Grammarly wording pass (merged onto the intact document)
+
+The Grammarly export itself was not used as the document. It had been made from an earlier version, and the export
+removed the 107 comments, the footer and page numbers, list numbering, the TOC field, the page size and margins,
+most page breaks, and the header rows of Tables 3.1, 3.2, 6.1, A.1 and B.1. Grammarly's wording changes were
+instead applied onto the current thesis, which keeps all of those.
+
+- Applied: Grammarly's rewrites in 203 paragraphs (concision, hyphenation such as decision-making and
+  well-validated, artefact, active phrasing without a personal pronoun).
+- Not applied, to keep the thesis voice: 30 paragraphs where Grammarly rewrote into the first person ("We
+  specified...", "we ran...").
+- Not applied, because the paragraph was corrected after the version sent to Grammarly: 7 paragraphs (the
+  Rodríguez-Ortiz, Alharbi and Li reference fixes, "productionisation" and "scheduled scoring").
+- Not applied: 1 rewrite that began "Figure 3.2 illustrates...", which would have been listed as a figure caption.
+- Grammarly slips corrected: "administrators-", "proposedrole-aware", "However,methodological", "works,,",
+  "the the", "level,,", "ad" for "and"; US spellings "toward" and "counterintuitive" kept British.
+- Meaning slips corrected: "the authors did not test it" (the untested condition belongs to this study, so it now
+  reads "this study did not test it"), and a comma removed in "plausible and the underlying prediction is wrong".
