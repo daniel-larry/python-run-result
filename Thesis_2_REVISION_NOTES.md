@@ -230,3 +230,31 @@ Accepted with a change:
 Not applied:
 - 19, 21: "refinements" kept. SMOTE, Bayesian optimisation, calibration and trajectory features are techniques, not
   "issues". The proposal for 21 also used em dashes, which the thesis does not use.
+
+## Chapter 3 plain-language pass (46 flagged sentences)
+
+Not in the thesis (items 10-15 and 17-23): these quoted sentences do not occur in the current document or in the
+Grammarly export ("deliberately layered", "independently testable", "not simply a matter of convenience",
+"like-for-like", "fixed-configuration approach", "cross-method checking" and so on). Nothing was changed for them.
+Item 9 is also not the current wording: the thesis says the agent characterisations are "a well-sourced hypothesis
+about the three roles rather than a documented account of them", which is already plain, so it is kept. Item 16 is
+in Chapter 4 (Section 4.6) and was applied there.
+
+Accepted as proposed: 5, 7, 24, 26, 28, 29, 30, 31, 33, 34, 35, 37, 39, 42, 44, 46.
+
+Accepted with a change:
+- 1: keeps that the design problem "is a knowledge engineering problem", the justification for CommonKADS.
+- 2, 3, 4: citations kept: Schreiber et al. (2000), Studer et al. (1998).
+- 6: citations kept (Tsai & Gaševic; Leitner et al.; Kaliisa et al.), plus the pointer to the following paragraph.
+- 8, 32, 36, 40: the proposal covered only part of each sentence, so the rest is kept (the CommonKADS
+  expectation, the list of planned tests, what an early-warning evaluation would need, and the pointer to
+  Chapter 7).
+- 16: keeps that the leakage check raises an assertion error. This is true of the code
+  (xai-dashboard/ml/data_layer.py). The cross-reference is corrected to Section 3.3, where the windows are described.
+- 25: keeps the Molenaar and Knoop-van Campen (2019) citation.
+- 27: keeps all four Nielsen heuristics. The proposal dropped one without reason.
+- 38: the proposal merged two separate checks. Reproducing the metrics from the model artefact and comparing the
+  implementation with the planned method are kept as two steps.
+- 41: keeps the section reference and that no primary data were collected from any group.
+- 43: keeps "even when overall accuracy is high", which is the point of Yu et al. (2020).
+- 45: keeps "only" in "TAM is used only as a design lens". The thesis states elsewhere that TAM is not evaluated.
