@@ -280,3 +280,25 @@ where a verb would do. Long sentences were split, and stock words were replaced 
   literature comparison paragraphs, 5.9 to 5.12 summaries).
 - Chapter 6: 22 edits (operating point, reasoning trail, CommonKADS reflection, practitioner-response paragraph,
   "positioned" sentence, Nigeria transfer, and the 92-word summary sentence, now four sentences).
+
+## Plain-language pass on the abstract and Chapter 7, and the rest of Chapters 4 to 6
+
+Corrections found during the pass:
+- Chapter 7, Section 7.2 said "the research team designed and implemented". This is a single-author thesis, so it
+  now reads "this study designed and implemented".
+- Section 7.3.1 restated RQ1 as "whether SHAP and LIME could be integrated ... in a way that produced technically
+  generated explanations". It now matches RQ1: how they can be integrated into a knowledge engineering pipeline to
+  improve transparency.
+- Section 7.5: the Grammarly slip "perceived usefulness ad perceived ease of use" is corrected to "and".
+
+Abstract:
+- The long opening sentence is split in two.
+- The CommonKADS wording now matches Chapter 1.
+- One sentence was added on the working prototype: Docker, with locally hosted Moodle through a plugin and Canvas
+  through an embedded course page, as described in Chapter 4, Section 4.10.
+- The SHAP/LIME result now gives the measured overlap (0.635).
+- "Technical feasibility and soundness" became "technical feasibility". Soundness was not separately evaluated.
+
+Chapters 4 to 6: the remaining sentences of about 60 words or more were split (instructor view rationale,
+institutional uptake, role-gated views, 5.12 RQ2 answer, SHAP/LIME agreement summary, Schreiber traceability,
+6.11 limitations, 6.12 RQ2 and RQ3 answers). Figures and citations are unchanged.
