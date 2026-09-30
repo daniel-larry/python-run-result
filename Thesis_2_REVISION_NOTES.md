@@ -302,3 +302,20 @@ Abstract:
 Chapters 4 to 6: the remaining sentences of about 60 words or more were split (instructor view rationale,
 institutional uptake, role-gated views, 5.12 RQ2 answer, SHAP/LIME agreement summary, Schreiber traceability,
 6.11 limitations, 6.12 RQ2 and RQ3 answers). Figures and citations are unchanged.
+
+## Final re-check against all 107 comments (after the plain-language passes)
+
+Each comment was mapped again to the text it is anchored to in the current file. All 107 are still addressed; none
+of the plain-language edits reversed a fix. Specific checks:
+- No future tense ("will") in Chapter 3.
+- No "production".
+- No claim of a systematic literature review by this study.
+- No student-facing view.
+- "Early-warning system" appears only where the thesis says early-warning performance was not tested.
+- References: all 115 entries are cited in the text, and every in-text citation has an entry. Author names are now
+  spelled consistently in text and list: Gašević (was Gasevic/Gaševic), Gutiérrez, Gonçalves.
+
+Still open (no edit can close these):
+- Section 1.5: the author's own paper to be added once published.
+- The comments must be answered and resolved in Google Docs by the author. The .docx keeps them as anchors, as
+  requested.
