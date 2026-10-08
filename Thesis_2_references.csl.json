@@ -1,0 +1,4138 @@
+[
+ {
+  "id": "Adadi2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Amina",
+    "family": "Adadi"
+   },
+   {
+    "given": "Mohammed",
+    "family": "Berrada"
+   }
+  ],
+  "container-title": "IEEE Access",
+  "volume": "6",
+  "page": "52138-52160",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "DOI": "10.1109/ACCESS.2018.2870052",
+  "title": "Peeking inside the black-box: A survey on explainable artificial intelligence (XAI)"
+ },
+ {
+  "id": "Adnan2021",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Muhammad",
+    "family": "Adnan"
+   },
+   {
+    "given": "Asad",
+    "family": "Habib"
+   },
+   {
+    "given": "Jawad",
+    "family": "Ashraf"
+   },
+   {
+    "given": "Shafaq",
+    "family": "Mussadiq"
+   },
+   {
+    "given": "Arsalan Ali",
+    "family": "Raza"
+   },
+   {
+    "given": "Muhammad",
+    "family": "Abid"
+   },
+   {
+    "given": "Maryam",
+    "family": "Bashir"
+   },
+   {
+    "given": "Sana Ullah",
+    "family": "Khan"
+   }
+  ],
+  "container-title": "IEEE Access",
+  "volume": "9",
+  "page": "7519-7539",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "DOI": "10.1109/ACCESS.2021.3049446",
+  "title": "Predicting at-risk students at different percentages of course length for early intervention using machine learning models"
+ },
+ {
+  "id": "Afzaal2021",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Muhammad",
+    "family": "Afzaal"
+   },
+   {
+    "given": "Jalal",
+    "family": "Nouri"
+   },
+   {
+    "given": "Aayesha",
+    "family": "Zia"
+   },
+   {
+    "given": "Panagiotis",
+    "family": "Papapetrou"
+   },
+   {
+    "given": "Uno",
+    "family": "Fors"
+   },
+   {
+    "given": "Yongchao",
+    "family": "Wu"
+   },
+   {
+    "given": "Xiu",
+    "family": "Li"
+   },
+   {
+    "given": "Rebecka",
+    "family": "Weegar"
+   }
+  ],
+  "container-title": "Frontiers in Artificial Intelligence",
+  "volume": "4",
+  "number": "723447",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "DOI": "10.3389/frai.2021.723447",
+  "title": "Explainable AI for data-driven feedback and intelligent action recommendations to support students self-regulation"
+ },
+ {
+  "id": "Ahmed2025",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Wesam",
+    "family": "Ahmed"
+   },
+   {
+    "given": "Mudasir Ahmad",
+    "family": "Wani"
+   },
+   {
+    "given": "Pawel",
+    "family": "Plawiak"
+   },
+   {
+    "given": "Souham",
+    "family": "Meshoul"
+   },
+   {
+    "given": "Amena",
+    "family": "Mahmoud"
+   },
+   {
+    "given": "Mohamed",
+    "family": "Hammad"
+   }
+  ],
+  "container-title": "Scientific Reports",
+  "volume": "15",
+  "issue": "1",
+  "number": "26879",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "DOI": "10.1038/s41598-025-12353-4",
+  "title": "Machine learning-based academic performance prediction with explainability for enhanced decision-making in educational institutions"
+ },
+ {
+  "id": "AlAnsari2024",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Noor",
+    "family": "Al-Ansari"
+   },
+   {
+    "given": "Dena",
+    "family": "Al-Thani"
+   },
+   {
+    "given": "Reem S.",
+    "family": "Al-Mansoori"
+   }
+  ],
+  "container-title": "Human Behavior and Emerging Technologies",
+  "volume": "2024",
+  "issue": "1",
+  "number": "4628855",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "DOI": "10.1155/2024/4628855",
+  "title": "User-centered evaluation of explainable artificial intelligence (XAI): A systematic literature review"
+ },
+ {
+  "id": "Albreiki2021",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Balqis",
+    "family": "Albreiki"
+   },
+   {
+    "given": "Nazar",
+    "family": "Zaki"
+   },
+   {
+    "given": "Hany",
+    "family": "Alashwal"
+   }
+  ],
+  "container-title": "Education Sciences",
+  "volume": "11",
+  "issue": "9",
+  "page": "552",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "DOI": "10.3390/educsci11090552",
+  "title": "A systematic literature review of student’ performance prediction using machine learning techniques"
+ },
+ {
+  "id": "Ali2023",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Sajid",
+    "family": "Ali"
+   },
+   {
+    "given": "Tamer",
+    "family": "Abuhmed"
+   },
+   {
+    "given": "Shaker",
+    "family": "El-Sappagh"
+   },
+   {
+    "given": "Khan",
+    "family": "Muhammad"
+   },
+   {
+    "given": "Jose M.",
+    "family": "Alonso-Moral"
+   },
+   {
+    "given": "Roberto",
+    "family": "Confalonieri"
+   },
+   {
+    "given": "Riccardo",
+    "family": "Guidotti"
+   },
+   {
+    "given": "Javier",
+    "family": "Del Ser"
+   },
+   {
+    "given": "Natalia",
+    "family": "Díaz-Rodríguez"
+   },
+   {
+    "given": "Francisco",
+    "family": "Herrera"
+   }
+  ],
+  "container-title": "Information Fusion",
+  "volume": "99",
+  "number": "101805",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.inffus.2023.101805",
+  "title": "Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence"
+ },
+ {
+  "id": "Aljohani2019",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Naif Radi",
+    "family": "Aljohani"
+   },
+   {
+    "given": "Ayman",
+    "family": "Fayoumi"
+   },
+   {
+    "given": "Saeed-Ul",
+    "family": "Hassan"
+   }
+  ],
+  "container-title": "Sustainability",
+  "volume": "11",
+  "issue": "24",
+  "page": "7238",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.3390/su11247238",
+  "title": "Predicting at-risk students using clickstream data in the virtual learning environment"
+ },
+ {
+  "id": "Arrieta2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Alejandro",
+    "family": "Barredo Arrieta"
+   },
+   {
+    "given": "Natalia",
+    "family": "Díaz-Rodríguez"
+   },
+   {
+    "given": "Javier",
+    "family": "Del Ser"
+   },
+   {
+    "given": "Adrien",
+    "family": "Bennetot"
+   },
+   {
+    "given": "Siham",
+    "family": "Tabik"
+   },
+   {
+    "given": "Alberto",
+    "family": "Barbado"
+   },
+   {
+    "given": "Salvador",
+    "family": "García"
+   },
+   {
+    "given": "Sergio",
+    "family": "Gil-López"
+   },
+   {
+    "given": "Daniel",
+    "family": "Molina"
+   },
+   {
+    "given": "Richard",
+    "family": "Benjamins"
+   },
+   {
+    "given": "Raja",
+    "family": "Chatila"
+   },
+   {
+    "given": "Francisco",
+    "family": "Herrera"
+   }
+  ],
+  "container-title": "Information Fusion",
+  "volume": "58",
+  "page": "82-115",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.inffus.2019.12.012",
+  "title": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI"
+ },
+ {
+  "id": "Baker2022",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Ryan S.",
+    "family": "Baker"
+   },
+   {
+    "given": "Aaron",
+    "family": "Hawn"
+   }
+  ],
+  "container-title": "International Journal of Artificial Intelligence in Education",
+  "volume": "32",
+  "issue": "4",
+  "page": "1052-1092",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "DOI": "10.1007/s40593-021-00285-9",
+  "title": "Algorithmic bias in education"
+ },
+ {
+  "id": "Bass2021",
+  "type": "book",
+  "author": [
+   {
+    "family": "Bass",
+    "given": "Len"
+   },
+   {
+    "family": "Clements",
+    "given": "Paul"
+   },
+   {
+    "family": "Kazman",
+    "given": "Rick"
+   }
+  ],
+  "title": "Software architecture in practice",
+  "edition": "4",
+  "publisher": "Addison-Wesley",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  }
+ },
+ {
+  "id": "Bergstra2011",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Bergstra",
+    "given": "James"
+   },
+   {
+    "family": "Bardenet",
+    "given": "Rémi"
+   },
+   {
+    "family": "Bengio",
+    "given": "Yoshua"
+   },
+   {
+    "family": "Kégl",
+    "given": "Balázs"
+   }
+  ],
+  "title": "Algorithms for hyper-parameter optimization",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "24",
+  "issued": {
+   "date-parts": [
+    [
+     2011
+    ]
+   ]
+  },
+  "URL": "https://proceedings.neurips.cc/paper/2011/hash/86e8f7ab32cfd12577bc2619bc635690-Abstract.html",
+  "page": "2546-2554"
+ },
+ {
+  "id": "Bodily2017",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Robert",
+    "family": "Bodily"
+   },
+   {
+    "given": "Katrien",
+    "family": "Verbert"
+   }
+  ],
+  "container-title": "IEEE Transactions on Learning Technologies",
+  "volume": "10",
+  "issue": "4",
+  "page": "405-418",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "DOI": "10.1109/TLT.2017.2740172",
+  "title": "Review of research on student-facing learning analytics dashboards and educational recommender systems"
+ },
+ {
+  "id": "Booch2005",
+  "type": "book",
+  "author": [
+   {
+    "family": "Booch",
+    "given": "Grady"
+   },
+   {
+    "family": "Rumbaugh",
+    "given": "James"
+   },
+   {
+    "family": "Jacobson",
+    "given": "Ivar"
+   }
+  ],
+  "title": "The Unified Modeling Language user guide",
+  "edition": "2",
+  "publisher": "Addison-Wesley",
+  "issued": {
+   "date-parts": [
+    [
+     2005
+    ]
+   ]
+  }
+ },
+ {
+  "id": "Brdnik2023",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Saša",
+    "family": "Brdnik"
+   },
+   {
+    "given": "Vili",
+    "family": "Podgorelec"
+   },
+   {
+    "given": "Boštjan",
+    "family": "Šumak"
+   }
+  ],
+  "container-title": "Electronics",
+  "volume": "12",
+  "issue": "12",
+  "page": "2594",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "DOI": "10.3390/electronics12122594",
+  "title": "Assessing perceived trust and satisfaction with multiple explanation techniques in XAI-enhanced learning analytics"
+ },
+ {
+  "id": "Breiman2001",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Leo",
+    "family": "Breiman"
+   }
+  ],
+  "container-title": "Machine Learning",
+  "volume": "45",
+  "issue": "1",
+  "page": "5-32",
+  "issued": {
+   "date-parts": [
+    [
+     2001
+    ]
+   ]
+  },
+  "DOI": "10.1023/A:1010933404324",
+  "title": "Random forests"
+ },
+ {
+  "id": "Cabral2025",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Luís",
+    "family": "Cabral"
+   },
+   {
+    "given": "Rui",
+    "family": "Pinto"
+   },
+   {
+    "given": "Gil",
+    "family": "Gonçalves"
+   }
+  ],
+  "container-title": "Discover Education",
+  "volume": "4",
+  "issue": "1",
+  "number": "525",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "DOI": "10.1007/s44217-025-00964-y",
+  "title": "AI-powered learning analytics dashboards: A systematic review of applications, techniques, and research gaps"
+ },
+ {
+  "id": "Chatti2012",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Mohamed Amine",
+    "family": "Chatti"
+   },
+   {
+    "given": "Anna Lea",
+    "family": "Dyckhoff"
+   },
+   {
+    "given": "Ulrik",
+    "family": "Schroeder"
+   },
+   {
+    "given": "Hendrik",
+    "family": "Thüs"
+   }
+  ],
+  "container-title": "International Journal of Technology Enhanced Learning",
+  "volume": "4",
+  "issue": "5/6",
+  "page": "318-331",
+  "issued": {
+   "date-parts": [
+    [
+     2012
+    ]
+   ]
+  },
+  "DOI": "10.1504/IJTEL.2012.051815",
+  "title": "A reference model for learning analytics"
+ },
+ {
+  "id": "Chavan2022",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Pankaj",
+    "family": "Chavan"
+   },
+   {
+    "given": "Ritayan",
+    "family": "Mitra"
+   }
+  ],
+  "container-title": "Journal of Learning Analytics",
+  "volume": "9",
+  "issue": "3",
+  "page": "125-151",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "DOI": "10.18608/jla.2022.7555",
+  "title": "Tcherly:"
+ },
+ {
+  "id": "Chawla2002",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "N. V.",
+    "family": "Chawla"
+   },
+   {
+    "given": "K. W.",
+    "family": "Bowyer"
+   },
+   {
+    "given": "L. O.",
+    "family": "Hall"
+   },
+   {
+    "given": "W. P.",
+    "family": "Kegelmeyer"
+   }
+  ],
+  "container-title": "Journal of Artificial Intelligence Research",
+  "volume": "16",
+  "page": "321-357",
+  "issued": {
+   "date-parts": [
+    [
+     2002
+    ]
+   ]
+  },
+  "DOI": "10.1613/jair.953",
+  "title": "SMOTE: Synthetic minority over-sampling technique"
+ },
+ {
+  "id": "Chen2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Fu",
+    "family": "Chen"
+   },
+   {
+    "given": "Ying",
+    "family": "Cui"
+   }
+  ],
+  "container-title": "Journal of Learning Analytics",
+  "volume": "7",
+  "issue": "2",
+  "page": "1-17",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.18608/jla.2020.72.1",
+  "title": "Utilizing student time series behaviour in learning management systems for early prediction of course performance"
+ },
+ {
+  "id": "Chen2016",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Tianqi",
+    "family": "Chen"
+   },
+   {
+    "given": "Carlos",
+    "family": "Guestrin"
+   }
+  ],
+  "container-title": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+  "page": "785-794",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "DOI": "10.1145/2939672.2939785",
+  "title": "XGBoost: A scalable tree boosting system"
+ },
+ {
+  "id": "Chicco2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Davide",
+    "family": "Chicco"
+   },
+   {
+    "given": "Giuseppe",
+    "family": "Jurman"
+   }
+  ],
+  "container-title": "BMC Genomics",
+  "volume": "21",
+  "issue": "1",
+  "number": "6",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1186/s12864-019-6413-7",
+  "title": "The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation"
+ },
+ {
+  "id": "Conati2021",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Cristina",
+    "family": "Conati"
+   },
+   {
+    "given": "Oswald",
+    "family": "Barral"
+   },
+   {
+    "given": "Vanessa",
+    "family": "Putnam"
+   },
+   {
+    "given": "Lea",
+    "family": "Rieger"
+   }
+  ],
+  "container-title": "Artificial Intelligence",
+  "volume": "298",
+  "number": "103503",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.artint.2021.103503",
+  "title": "Toward personalized XAI: A case study in intelligent tutoring systems"
+ },
+ {
+  "id": "Davis1989",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Fred D.",
+    "family": "Davis"
+   }
+  ],
+  "container-title": "MIS Quarterly",
+  "volume": "13",
+  "issue": "3",
+  "page": "319-340",
+  "issued": {
+   "date-parts": [
+    [
+     1989
+    ]
+   ]
+  },
+  "DOI": "10.2307/249008",
+  "title": "Perceived usefulness, perceived ease of use, and user acceptance of information technology"
+ },
+ {
+  "id": "DoshiVelez2017",
+  "type": "article",
+  "author": [
+   {
+    "family": "Doshi-Velez",
+    "given": "Finale"
+   },
+   {
+    "family": "Kim",
+    "given": "Been"
+   }
+  ],
+  "title": "Towards a rigorous science of interpretable machine learning",
+  "publisher": "arXiv",
+  "number": "arXiv:1702.08608",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "DOI": "10.48550/arXiv.1702.08608"
+ },
+ {
+  "id": "Ehsan2021",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Upol",
+    "family": "Ehsan"
+   },
+   {
+    "given": "Q. Vera",
+    "family": "Liao"
+   },
+   {
+    "given": "Michael",
+    "family": "Muller"
+   },
+   {
+    "given": "Mark O.",
+    "family": "Riedl"
+   },
+   {
+    "given": "Justin D.",
+    "family": "Weisz"
+   }
+  ],
+  "container-title": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "page": "1-19",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "DOI": "10.1145/3411764.3445188",
+  "title": "Expanding explainability: Towards social transparency in AI systems"
+ },
+ {
+  "id": "Ferguson2012",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Rebecca",
+    "family": "Ferguson"
+   }
+  ],
+  "container-title": "International Journal of Technology Enhanced Learning",
+  "volume": "4",
+  "issue": "5/6",
+  "page": "304-317",
+  "issued": {
+   "date-parts": [
+    [
+     2012
+    ]
+   ]
+  },
+  "DOI": "10.1504/IJTEL.2012.051816",
+  "title": "Learning analytics: Drivers, developments and challenges"
+ },
+ {
+  "id": "Fernandez2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Alberto",
+    "family": "Fernández"
+   },
+   {
+    "given": "Salvador",
+    "family": "García"
+   },
+   {
+    "given": "Francisco",
+    "family": "Herrera"
+   },
+   {
+    "given": "Nitesh V.",
+    "family": "Chawla"
+   }
+  ],
+  "container-title": "Journal of Artificial Intelligence Research",
+  "volume": "61",
+  "page": "863-905",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "DOI": "10.1613/jair.1.11192",
+  "title": "SMOTE for learning from imbalanced data: Progress and challenges, marking the 15-year anniversary"
+ },
+ {
+  "id": "Friedman2001",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Jerome H.",
+    "family": "Friedman"
+   }
+  ],
+  "container-title": "The Annals of Statistics",
+  "volume": "29",
+  "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     2001
+    ]
+   ]
+  },
+  "DOI": "10.1214/aos/1013203451",
+  "title": "Greedy function approximation: A gradient boosting machine",
+  "page": "1189-1232"
+ },
+ {
+  "id": "Gasevic2015",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Dragan",
+    "family": "Gašević"
+   },
+   {
+    "given": "Shane",
+    "family": "Dawson"
+   },
+   {
+    "given": "George",
+    "family": "Siemens"
+   }
+  ],
+  "container-title": "TechTrends",
+  "volume": "59",
+  "issue": "1",
+  "page": "64-71",
+  "issued": {
+   "date-parts": [
+    [
+     2015
+    ]
+   ]
+  },
+  "DOI": "10.1007/s11528-014-0822-x",
+  "title": "Let’s not forget: Learning analytics are about learning"
+ },
+ {
+  "id": "GuevaraReyes2025",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Rodrigo",
+    "family": "Guevara-Reyes"
+   },
+   {
+    "given": "Iván",
+    "family": "Ortiz-Garcés"
+   },
+   {
+    "given": "Roberto",
+    "family": "Andrade"
+   },
+   {
+    "given": "Fernanda",
+    "family": "Cox-Riquetti"
+   },
+   {
+    "given": "William",
+    "family": "Villegas-Ch"
+   }
+  ],
+  "container-title": "Frontiers in Education",
+  "volume": "10",
+  "number": "1632315",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "DOI": "10.3389/feduc.2025.1632315",
+  "title": "Machine learning models for academic performance prediction: Interpretability and application in educational decision-making"
+ },
+ {
+  "id": "Guidotti2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Riccardo",
+    "family": "Guidotti"
+   },
+   {
+    "given": "Anna",
+    "family": "Monreale"
+   },
+   {
+    "given": "Salvatore",
+    "family": "Ruggieri"
+   },
+   {
+    "given": "Franco",
+    "family": "Turini"
+   },
+   {
+    "given": "Fosca",
+    "family": "Giannotti"
+   },
+   {
+    "given": "Dino",
+    "family": "Pedreschi"
+   }
+  ],
+  "container-title": "ACM Computing Surveys",
+  "volume": "51",
+  "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1145/3236009",
+  "title": "A survey of methods for explaining black box models",
+  "number": "93"
+ },
+ {
+  "id": "Gunasekara2024",
+  "type": "paper-conference",
+  "author": [
+   {
+    "family": "Gunasekara",
+    "given": "Sachini"
+   },
+   {
+    "family": "Saarela",
+    "given": "Mirka"
+   }
+  ],
+  "title": "Explainability in educational data mining and learning analytics: An umbrella review",
+  "editor": [
+   {
+    "family": "Paaßen",
+    "given": "Benjamin"
+   },
+   {
+    "family": "Demmans Epp",
+    "given": "Carrie"
+   }
+  ],
+  "container-title": "Proceedings of the 17th International Conference on Educational Data Mining",
+  "page": "887-892",
+  "publisher": "International Educational Data Mining Society",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "DOI": "10.5281/zenodo.12729987"
+ },
+ {
+  "id": "Gunasekara2025",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Sachini",
+    "family": "Gunasekara"
+   },
+   {
+    "given": "Mirka",
+    "family": "Saarela"
+   }
+  ],
+  "container-title": "Applied Sciences",
+  "volume": "15",
+  "issue": "3",
+  "page": "1239",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "DOI": "10.3390/app15031239",
+  "title": "Explainable AI in education: Techniques and qualitative assessment"
+ },
+ {
+  "id": "Gundersen2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Odd Erik",
+    "family": "Gundersen"
+   },
+   {
+    "given": "Sigbjørn",
+    "family": "Kjensmo"
+   }
+  ],
+  "container-title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "volume": "32",
+  "issue": "1",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "DOI": "10.1609/aaai.v32i1.11503",
+  "title": "State of the art: Reproducibility in artificial intelligence",
+  "page": "1644-1651"
+ },
+ {
+  "id": "Gunning2019",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "David",
+    "family": "Gunning"
+   },
+   {
+    "given": "David W.",
+    "family": "Aha"
+   }
+  ],
+  "container-title": "AI Magazine",
+  "volume": "40",
+  "issue": "2",
+  "page": "44-58",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1609/aimag.v40i2.2850",
+  "title": "DARPA’s explainable artificial intelligence (XAI) program"
+ },
+ {
+  "id": "Guo2017",
+  "type": "paper-conference",
+  "author": [
+   {
+    "family": "Guo",
+    "given": "Chuan"
+   },
+   {
+    "family": "Pleiss",
+    "given": "Geoff"
+   },
+   {
+    "family": "Sun",
+    "given": "Yu"
+   },
+   {
+    "family": "Weinberger",
+    "given": "Kilian Q."
+   }
+  ],
+  "title": "On calibration of modern neural networks",
+  "container-title": "Proceedings of the 34th International Conference on Machine Learning",
+  "collection-title": "Proceedings of Machine Learning Research",
+  "volume": "70",
+  "page": "1321-1330",
+  "publisher": "PMLR",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "URL": "https://proceedings.mlr.press/v70/guo17a.html"
+ },
+ {
+  "id": "Gutierrez2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Francisco",
+    "family": "Gutiérrez"
+   },
+   {
+    "given": "Karsten",
+    "family": "Seipp"
+   },
+   {
+    "given": "Xavier",
+    "family": "Ochoa"
+   },
+   {
+    "given": "Katherine",
+    "family": "Chiluiza"
+   },
+   {
+    "given": "Tinne",
+    "family": "De Laet"
+   },
+   {
+    "given": "Katrien",
+    "family": "Verbert"
+   }
+  ],
+  "container-title": "Computers in Human Behavior",
+  "volume": "107",
+  "number": "105826",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.chb.2018.12.004",
+  "title": "LADA: A learning analytics dashboard for academic advising"
+ },
+ {
+  "id": "Haque2023",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "AKM Bahalul",
+    "family": "Haque"
+   },
+   {
+    "given": "A. K. M. Najmul",
+    "family": "Islam"
+   },
+   {
+    "given": "Patrick",
+    "family": "Mikalef"
+   }
+  ],
+  "container-title": "Technological Forecasting and Social Change",
+  "volume": "186",
+  "number": "122120",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.techfore.2022.122120",
+  "title": "Explainable artificial intelligence (XAI) from a user perspective: A synthesis of prior literature and problematizing avenues for future research"
+ },
+ {
+  "id": "Hardt2016",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Hardt",
+    "given": "Moritz"
+   },
+   {
+    "family": "Price",
+    "given": "Eric"
+   },
+   {
+    "family": "Srebro",
+    "given": "Nati"
+   }
+  ],
+  "title": "Equality of opportunity in supervised learning",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "29",
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "URL": "https://proceedings.neurips.cc/paper/2016/hash/6a9659feb1216f14f7384ba499518b38-Abstract.html",
+  "page": "3315-3323"
+ },
+ {
+  "id": "Hassan2019",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Hassan",
+    "given": "Saeed-Ul"
+   },
+   {
+    "given": "Hajra",
+    "family": "Waheed"
+   },
+   {
+    "given": "Naif R.",
+    "family": "Aljohani"
+   },
+   {
+    "given": "Mohsen",
+    "family": "Ali"
+   },
+   {
+    "given": "Sebastián",
+    "family": "Ventura"
+   },
+   {
+    "given": "Francisco",
+    "family": "Herrera"
+   }
+  ],
+  "container-title": "International Journal of Intelligent Systems",
+  "volume": "34",
+  "issue": "8",
+  "page": "1935-1952",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1002/int.22129",
+  "title": "Virtual learning environment to predict withdrawal by leveraging deep learning"
+ },
+ {
+  "id": "HernandezLeo2019",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Davinia",
+    "family": "Hernández-Leo"
+   },
+   {
+    "given": "Roberto",
+    "family": "Martinez-Maldonado"
+   },
+   {
+    "given": "Abelardo",
+    "family": "Pardo"
+   },
+   {
+    "given": "Juan A.",
+    "family": "Muñoz-Cristóbal"
+   },
+   {
+    "given": "María J.",
+    "family": "Rodríguez-Triana"
+   }
+  ],
+  "container-title": "British Journal of Educational Technology",
+  "volume": "50",
+  "issue": "1",
+  "page": "139-152",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1111/bjet.12645",
+  "title": "Analytics for learning design: A layered framework and tools"
+ },
+ {
+  "id": "Hevner2004",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Alan R.",
+    "family": "Hevner"
+   },
+   {
+    "given": "Salvatore T.",
+    "family": "March"
+   },
+   {
+    "given": "Jinsoo",
+    "family": "Park"
+   },
+   {
+    "given": "Sudha",
+    "family": "Ram"
+   }
+  ],
+  "container-title": "MIS Quarterly",
+  "volume": "28",
+  "issue": "1",
+  "page": "75-106",
+  "issued": {
+   "date-parts": [
+    [
+     2004
+    ]
+   ]
+  },
+  "DOI": "10.2307/25148625",
+  "title": "Design science in information systems research"
+ },
+ {
+  "id": "Hlosta2017",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Martin",
+    "family": "Hlosta"
+   },
+   {
+    "given": "Zdenek",
+    "family": "Zdrahal"
+   },
+   {
+    "given": "Jaroslav",
+    "family": "Zendulka"
+   }
+  ],
+  "container-title": "Proceedings of the Seventh International Learning Analytics & Knowledge Conference",
+  "page": "6-15",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "DOI": "10.1145/3027385.3027449",
+  "title": "Ouroboros: Early identification of at-risk students without models based on legacy data"
+ },
+ {
+  "id": "Hooshyar2024",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Danial",
+    "family": "Hooshyar"
+   },
+   {
+    "given": "Yeongwook",
+    "family": "Yang"
+   }
+  ],
+  "container-title": "IEEE Access",
+  "volume": "12",
+  "page": "137472-137490",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "DOI": "10.1109/ACCESS.2024.3463948",
+  "title": "Problems with SHAP and LIME in interpretable AI for education: A comparative study of post-hoc explanations and neural-symbolic rule extraction"
+ },
+ {
+  "id": "Humble2010",
+  "type": "book",
+  "author": [
+   {
+    "family": "Humble",
+    "given": "Jez"
+   },
+   {
+    "family": "Farley",
+    "given": "David"
+   }
+  ],
+  "title": "Continuous delivery: Reliable software releases through build, test, and deployment automation",
+  "publisher": "Addison-Wesley",
+  "issued": {
+   "date-parts": [
+    [
+     2010
+    ]
+   ]
+  }
+ },
+ {
+  "id": "Hussain2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Mushtaq",
+    "family": "Hussain"
+   },
+   {
+    "given": "Wenhao",
+    "family": "Zhu"
+   },
+   {
+    "given": "Wu",
+    "family": "Zhang"
+   },
+   {
+    "given": "Syed Muhammad Raza",
+    "family": "Abidi"
+   }
+  ],
+  "container-title": "Computational Intelligence and Neuroscience",
+  "volume": "2018",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "DOI": "10.1155/2018/6347186",
+  "title": "Student engagement predictions in an e-learning system and their impact on student course assessment scores",
+  "number": "6347186"
+ },
+ {
+  "id": "Islam2025",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Md. Mahmudul",
+    "family": "Islam"
+   },
+   {
+    "given": "Farhad Hossain",
+    "family": "Sojib"
+   },
+   {
+    "given": "Md. Fazle Hasan",
+    "family": "Mihad"
+   },
+   {
+    "given": "Mahmudul",
+    "family": "Hasan"
+   },
+   {
+    "given": "Mahfujur",
+    "family": "Rahman"
+   }
+  ],
+  "container-title": "Telematics and Informatics Reports",
+  "volume": "18",
+  "number": "100203",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.teler.2025.100203",
+  "title": "The integration of explainable AI in educational data mining for student academic performance prediction and support system"
+ },
+ {
+  "id": "Jin2024",
+  "type": "chapter",
+  "author": [
+   {
+    "given": "Lingxi",
+    "family": "Jin"
+   },
+   {
+    "given": "Yao",
+    "family": "Wang"
+   },
+   {
+    "given": "Huiying",
+    "family": "Song"
+   },
+   {
+    "given": "Hyo-Jeong",
+    "family": "So"
+   }
+  ],
+  "container-title": "Artificial intelligence in education. Posters and late breaking results, workshops and tutorials, industry and innovation tracks, practitioners, doctoral consortium and blue sky",
+  "page": "477-484",
+  "publisher": "Springer",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "DOI": "10.1007/978-3-031-64315-6_46",
+  "title": "Predictive modelling with the Open University Learning Analytics Dataset (OULAD): A systematic literature review",
+  "editor": [
+   {
+    "family": "Olney",
+    "given": "Andrew M."
+   },
+   {
+    "family": "Chounta",
+    "given": "Irene-Angelica"
+   },
+   {
+    "family": "Liu",
+    "given": "Zitao"
+   },
+   {
+    "family": "Santos",
+    "given": "Olga C."
+   },
+   {
+    "family": "Bittencourt",
+    "given": "Ig Ibert"
+   }
+  ],
+  "collection-title": "Communications in Computer and Information Science",
+  "collection-number": "2150"
+ },
+ {
+  "id": "Jones2015",
+  "type": "report",
+  "author": [
+   {
+    "given": "M.",
+    "family": "Jones"
+   },
+   {
+    "given": "J.",
+    "family": "Bradley"
+   },
+   {
+    "given": "N.",
+    "family": "Sakimura"
+   }
+  ],
+  "publisher": "Internet Engineering Task Force",
+  "issued": {
+   "date-parts": [
+    [
+     2015
+    ]
+   ]
+  },
+  "DOI": "10.17487/RFC7519",
+  "title": "JSON Web Token (JWT)",
+  "genre": "RFC 7519"
+ },
+ {
+  "id": "Kaliisa2022",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Rogers",
+    "family": "Kaliisa"
+   },
+   {
+    "given": "Jan Arild",
+    "family": "Dolonen"
+   }
+  ],
+  "container-title": "Technology, Knowledge and Learning",
+  "volume": "28",
+  "issue": "3",
+  "page": "937-958",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "DOI": "10.1007/s10758-022-09598-7",
+  "title": "CADA: A teacher-facing learning analytics dashboard to foster teachers' awareness of students' participation and discourse patterns in online discussions"
+ },
+ {
+  "id": "Kaliisa2023",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Rogers",
+    "family": "Kaliisa"
+   },
+   {
+    "given": "Ioana",
+    "family": "Jivet"
+   },
+   {
+    "given": "Paul",
+    "family": "Prinsloo"
+   }
+  ],
+  "container-title": "International Journal of Educational Technology in Higher Education",
+  "volume": "20",
+  "issue": "1",
+  "number": "28",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "DOI": "10.1186/s41239-023-00394-6",
+  "title": "A checklist to guide the planning, designing, implementation, and evaluation of learning analytics dashboards"
+ },
+ {
+  "id": "Khosravi2022",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Hassan",
+    "family": "Khosravi"
+   },
+   {
+    "family": "Buckingham Shum",
+    "given": "Simon"
+   },
+   {
+    "given": "Guanliang",
+    "family": "Chen"
+   },
+   {
+    "given": "Cristina",
+    "family": "Conati"
+   },
+   {
+    "given": "Yi-Shan",
+    "family": "Tsai"
+   },
+   {
+    "given": "Judy",
+    "family": "Kay"
+   },
+   {
+    "given": "Simon",
+    "family": "Knight"
+   },
+   {
+    "given": "Roberto",
+    "family": "Martinez-Maldonado"
+   },
+   {
+    "given": "Shazia",
+    "family": "Sadiq"
+   },
+   {
+    "given": "Dragan",
+    "family": "Gašević"
+   }
+  ],
+  "container-title": "Computers and Education: Artificial Intelligence",
+  "volume": "3",
+  "number": "100074",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.caeai.2022.100074",
+  "title": "Explainable artificial intelligence in education"
+ },
+ {
+  "id": "Kim2024",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Jenia",
+    "family": "Kim"
+   },
+   {
+    "given": "Henry",
+    "family": "Maathuis"
+   },
+   {
+    "given": "Danielle",
+    "family": "Sent"
+   }
+  ],
+  "container-title": "Frontiers in Artificial Intelligence",
+  "volume": "7",
+  "number": "1456486",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "DOI": "10.3389/frai.2024.1456486",
+  "title": "Human-centered evaluation of explainable AI applications: A systematic review"
+ },
+ {
+  "id": "Kostopoulos2024",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Georgios",
+    "family": "Kostopoulos"
+   },
+   {
+    "given": "Gregory",
+    "family": "Davrazos"
+   },
+   {
+    "given": "Sotiris",
+    "family": "Kotsiantis"
+   }
+  ],
+  "container-title": "Electronics",
+  "volume": "13",
+  "issue": "14",
+  "page": "2842",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "DOI": "10.3390/electronics13142842",
+  "title": "Explainable artificial intelligence-based decision support systems: A recent review"
+ },
+ {
+  "id": "Kouki2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Pigi",
+    "family": "Kouki"
+   },
+   {
+    "given": "James",
+    "family": "Schaffer"
+   },
+   {
+    "given": "Jay",
+    "family": "Pujara"
+   },
+   {
+    "given": "John",
+    "family": "O’Donovan"
+   },
+   {
+    "given": "Lise",
+    "family": "Getoor"
+   }
+  ],
+  "container-title": "ACM Transactions on Interactive Intelligent Systems",
+  "volume": "10",
+  "issue": "4",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1145/3365843",
+  "title": "Generating and understanding personalized explanations in hybrid recommender systems",
+  "number": "31"
+ },
+ {
+  "id": "Krstajic2014",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Damjan",
+    "family": "Krstajic"
+   },
+   {
+    "given": "Ljubomir J",
+    "family": "Buturovic"
+   },
+   {
+    "given": "David E",
+    "family": "Leahy"
+   },
+   {
+    "given": "Simon",
+    "family": "Thomas"
+   }
+  ],
+  "container-title": "Journal of Cheminformatics",
+  "volume": "6",
+  "issue": "1",
+  "number": "10",
+  "issued": {
+   "date-parts": [
+    [
+     2014
+    ]
+   ]
+  },
+  "DOI": "10.1186/1758-2946-6-10",
+  "title": "Cross-validation pitfalls when selecting and assessing regression and classification models"
+ },
+ {
+  "id": "Kuzilek2017",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Jakub",
+    "family": "Kuzilek"
+   },
+   {
+    "given": "Martin",
+    "family": "Hlosta"
+   },
+   {
+    "given": "Zdenek",
+    "family": "Zdrahal"
+   }
+  ],
+  "container-title": "Scientific Data",
+  "volume": "4",
+  "issue": "1",
+  "number": "170171",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "DOI": "10.1038/sdata.2017.171",
+  "title": "Open University Learning Analytics dataset"
+ },
+ {
+  "id": "LarrabeeSnderlund2019",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Anders",
+    "family": "Larrabee Sønderlund"
+   },
+   {
+    "given": "Emily",
+    "family": "Hughes"
+   },
+   {
+    "given": "Joanne",
+    "family": "Smith"
+   }
+  ],
+  "container-title": "British Journal of Educational Technology",
+  "volume": "50",
+  "issue": "5",
+  "page": "2594-2618",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1111/bjet.12720",
+  "title": "The efficacy of learning analytics interventions in higher education: A systematic review"
+ },
+ {
+  "id": "Leitner2019",
+  "type": "chapter",
+  "author": [
+   {
+    "given": "Philipp",
+    "family": "Leitner"
+   },
+   {
+    "given": "Markus",
+    "family": "Ebner"
+   },
+   {
+    "given": "Martin",
+    "family": "Ebner"
+   }
+  ],
+  "container-title": "Utilizing learning analytics to support study success",
+  "page": "91-104",
+  "publisher": "Springer",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1007/978-3-319-64792-0_6",
+  "title": "Learning analytics challenges to overcome in higher education institutions",
+  "editor": [
+   {
+    "family": "Ifenthaler",
+    "given": "Dirk"
+   },
+   {
+    "family": "Mah",
+    "given": "Dana-Kristin"
+   },
+   {
+    "family": "Yau",
+    "given": "Jane Yin-Kim"
+   }
+  ]
+ },
+ {
+  "id": "Li2023",
+  "type": "chapter",
+  "author": [
+   {
+    "given": "Kam Cheong",
+    "family": "Li"
+   },
+   {
+    "given": "Billy T. M.",
+    "family": "Wong"
+   },
+   {
+    "given": "Hon Tung",
+    "family": "Chan"
+   }
+  ],
+  "container-title": "Technology in education. Innovative practices for the new normal",
+  "page": "119-128",
+  "publisher": "Springer",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "DOI": "10.1007/978-981-99-8255-4_11",
+  "title": "Prediction of at-risk students using learning analytics: A literature review",
+  "editor": [
+   {
+    "family": "Cheung",
+    "given": "Simon K. S."
+   },
+   {
+    "family": "Wang",
+    "given": "Fu Lee"
+   },
+   {
+    "family": "Paoprasert",
+    "given": "Naraphorn"
+   },
+   {
+    "family": "Charnsethikul",
+    "given": "Peerayuth"
+   },
+   {
+    "family": "Li",
+    "given": "Kam Cheong"
+   },
+   {
+    "family": "Phusavat",
+    "given": "Kongkiti"
+   }
+  ],
+  "collection-title": "Communications in Computer and Information Science",
+  "collection-number": "1974"
+ },
+ {
+  "id": "Liao2022",
+  "type": "article",
+  "author": [
+   {
+    "family": "Liao",
+    "given": "Q. Vera"
+   },
+   {
+    "family": "Varshney",
+    "given": "Kush R."
+   }
+  ],
+  "publisher": "arXiv",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "DOI": "10.48550/arXiv.2110.10790",
+  "title": "Human-centered explainable AI (XAI): From algorithms to user experiences",
+  "number": "arXiv:2110.10790"
+ },
+ {
+  "id": "Lipton2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Zachary C.",
+    "family": "Lipton"
+   }
+  ],
+  "container-title": "Communications of the ACM",
+  "volume": "61",
+  "issue": "10",
+  "page": "36-43",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "DOI": "10.1145/3233231",
+  "title": "The mythos of model interpretability"
+ },
+ {
+  "id": "Lundberg2017",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Lundberg",
+    "given": "Scott M."
+   },
+   {
+    "family": "Lee",
+    "given": "Su-In"
+   }
+  ],
+  "title": "A unified approach to interpreting model predictions",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "30",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "URL": "https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html",
+  "page": "4765-4774"
+ },
+ {
+  "id": "Lundberg2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Scott M.",
+    "family": "Lundberg"
+   },
+   {
+    "given": "Gabriel",
+    "family": "Erion"
+   },
+   {
+    "given": "Hugh",
+    "family": "Chen"
+   },
+   {
+    "given": "Alex",
+    "family": "DeGrave"
+   },
+   {
+    "given": "Jordan M.",
+    "family": "Prutkin"
+   },
+   {
+    "given": "Bala",
+    "family": "Nair"
+   },
+   {
+    "given": "Ronit",
+    "family": "Katz"
+   },
+   {
+    "given": "Jonathan",
+    "family": "Himmelfarb"
+   },
+   {
+    "given": "Nisha",
+    "family": "Bansal"
+   },
+   {
+    "given": "Su-In",
+    "family": "Lee"
+   }
+  ],
+  "container-title": "Nature Machine Intelligence",
+  "volume": "2",
+  "issue": "1",
+  "page": "56-67",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1038/s42256-019-0138-9",
+  "title": "From local explanations to global understanding with explainable AI for trees"
+ },
+ {
+  "id": "Marangunic2015",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Nikola",
+    "family": "Marangunić"
+   },
+   {
+    "given": "Andrina",
+    "family": "Granić"
+   }
+  ],
+  "container-title": "Universal Access in the Information Society",
+  "volume": "14",
+  "issue": "1",
+  "page": "81-95",
+  "issued": {
+   "date-parts": [
+    [
+     2015
+    ]
+   ]
+  },
+  "DOI": "10.1007/s10209-014-0348-1",
+  "title": "Technology acceptance model: A literature review from 1986 to 2013"
+ },
+ {
+  "id": "Martin2017",
+  "type": "book",
+  "author": [
+   {
+    "family": "Martin",
+    "given": "Robert C."
+   }
+  ],
+  "title": "Clean architecture: A craftsman’s guide to software structure and design",
+  "publisher": "Prentice Hall",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  }
+ },
+ {
+  "id": "Matcha2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Wannisa",
+    "family": "Matcha"
+   },
+   {
+    "given": "Noraayu Ahmad",
+    "family": "Uzir"
+   },
+   {
+    "given": "Dragan",
+    "family": "Gašević"
+   },
+   {
+    "given": "Abelardo",
+    "family": "Pardo"
+   }
+  ],
+  "container-title": "IEEE Transactions on Learning Technologies",
+  "volume": "13",
+  "issue": "2",
+  "page": "226-245",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1109/TLT.2019.2916802",
+  "title": "A systematic review of empirical studies on learning analytics dashboards: A self-regulated learning perspective"
+ },
+ {
+  "id": "MetaOpenSource2024",
+  "type": "webpage",
+  "author": [
+   {
+    "literal": "Meta Open Source"
+   }
+  ],
+  "title": "React documentation",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "URL": "https://react.dev"
+ },
+ {
+  "id": "Miller2019",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Tim",
+    "family": "Miller"
+   }
+  ],
+  "container-title": "Artificial Intelligence",
+  "volume": "267",
+  "page": "1-38",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.artint.2018.07.007",
+  "title": "Explanation in artificial intelligence: Insights from the social sciences"
+ },
+ {
+  "id": "Mitchell2019",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Margaret",
+    "family": "Mitchell"
+   },
+   {
+    "given": "Simone",
+    "family": "Wu"
+   },
+   {
+    "given": "Andrew",
+    "family": "Zaldivar"
+   },
+   {
+    "given": "Parker",
+    "family": "Barnes"
+   },
+   {
+    "given": "Lucy",
+    "family": "Vasserman"
+   },
+   {
+    "given": "Ben",
+    "family": "Hutchinson"
+   },
+   {
+    "given": "Elena",
+    "family": "Spitzer"
+   },
+   {
+    "given": "Inioluwa Deborah",
+    "family": "Raji"
+   },
+   {
+    "given": "Timnit",
+    "family": "Gebru"
+   }
+  ],
+  "container-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency",
+  "page": "220-229",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1145/3287560.3287596",
+  "title": "Model cards for model reporting"
+ },
+ {
+  "id": "Miteva2022",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Miteva",
+    "given": "Dafinka"
+   },
+   {
+    "family": "Stefanova",
+    "given": "Eliza"
+   }
+  ],
+  "title": "eAnalytics: A model of a learning analytics visualization system",
+  "container-title": "Annual of Sofia University St. Kliment Ohridski, Faculty of Mathematics and Informatics",
+  "volume": "109",
+  "page": "99-119",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "DOI": "10.60063/gsu.fmi.109.99-119"
+ },
+ {
+  "id": "Mohseni2021",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Sina",
+    "family": "Mohseni"
+   },
+   {
+    "given": "Niloofar",
+    "family": "Zarei"
+   },
+   {
+    "given": "Eric D.",
+    "family": "Ragan"
+   }
+  ],
+  "container-title": "ACM Transactions on Interactive Intelligent Systems",
+  "volume": "11",
+  "issue": "3-4",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "DOI": "10.1145/3387166",
+  "title": "A multidisciplinary survey and framework for design and evaluation of explainable AI systems",
+  "number": "24"
+ },
+ {
+  "id": "Molenaar2019",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "I.",
+    "family": "Molenaar"
+   },
+   {
+    "given": "C. A. N.",
+    "family": "Knoop-van Campen"
+   }
+  ],
+  "container-title": "IEEE Transactions on Learning Technologies",
+  "volume": "12",
+  "issue": "3",
+  "page": "347-355",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1109/TLT.2018.2851585",
+  "title": "How teachers make dashboard information actionable"
+ },
+ {
+  "id": "Munzner2014",
+  "type": "book",
+  "author": [
+   {
+    "family": "Munzner",
+    "given": "Tamara"
+   }
+  ],
+  "title": "Visualization analysis and design",
+  "publisher": "A K Peters/CRC Press",
+  "issued": {
+   "date-parts": [
+    [
+     2014
+    ]
+   ]
+  },
+  "DOI": "10.1201/b17511"
+ },
+ {
+  "id": "NiculescuMizil2005",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Alexandru",
+    "family": "Niculescu-Mizil"
+   },
+   {
+    "given": "Rich",
+    "family": "Caruana"
+   }
+  ],
+  "container-title": "Proceedings of the 22nd International Conference on Machine Learning",
+  "page": "625-632",
+  "publisher": "ACM Press",
+  "issued": {
+   "date-parts": [
+    [
+     2005
+    ]
+   ]
+  },
+  "DOI": "10.1145/1102351.1102430",
+  "title": "Predicting good probabilities with supervised learning"
+ },
+ {
+  "id": "Nielsen1994",
+  "type": "book",
+  "author": [
+   {
+    "family": "Nielsen",
+    "given": "Jakob"
+   }
+  ],
+  "title": "Usability engineering",
+  "publisher": "Morgan Kaufmann",
+  "issued": {
+   "date-parts": [
+    [
+     1994
+    ]
+   ]
+  }
+ },
+ {
+  "id": "Nnadi2024",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Leonard Chukwualuka",
+    "family": "Nnadi"
+   },
+   {
+    "given": "Yutaka",
+    "family": "Watanobe"
+   },
+   {
+    "given": "Md. Mostafizer",
+    "family": "Rahman"
+   },
+   {
+    "given": "Adetokunbo Macgregor",
+    "family": "John-Otumu"
+   }
+  ],
+  "container-title": "Applied Sciences",
+  "volume": "14",
+  "issue": "12",
+  "page": "5141",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "DOI": "10.3390/app14125141",
+  "title": "Prediction of students’ adaptability using explainable AI in educational machine learning models"
+ },
+ {
+  "id": "Pedregosa2011",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Pedregosa",
+    "given": "Fabian"
+   },
+   {
+    "family": "Varoquaux",
+    "given": "Gaël"
+   },
+   {
+    "family": "Gramfort",
+    "given": "Alexandre"
+   },
+   {
+    "family": "Michel",
+    "given": "Vincent"
+   },
+   {
+    "family": "Thirion",
+    "given": "Bertrand"
+   },
+   {
+    "family": "Grisel",
+    "given": "Olivier"
+   },
+   {
+    "family": "Blondel",
+    "given": "Mathieu"
+   },
+   {
+    "family": "Prettenhofer",
+    "given": "Peter"
+   },
+   {
+    "family": "Weiss",
+    "given": "Ron"
+   },
+   {
+    "family": "Dubourg",
+    "given": "Vincent"
+   },
+   {
+    "family": "Vanderplas",
+    "given": "Jake"
+   },
+   {
+    "family": "Passos",
+    "given": "Alexandre"
+   },
+   {
+    "family": "Cournapeau",
+    "given": "David"
+   },
+   {
+    "family": "Brucher",
+    "given": "Matthieu"
+   },
+   {
+    "family": "Perrot",
+    "given": "Matthieu"
+   },
+   {
+    "family": "Duchesnay",
+    "given": "Édouard"
+   }
+  ],
+  "title": "Scikit-learn: Machine learning in Python",
+  "container-title": "Journal of Machine Learning Research",
+  "volume": "12",
+  "page": "2825-2830",
+  "issued": {
+   "date-parts": [
+    [
+     2011
+    ]
+   ]
+  },
+  "URL": "https://jmlr.org/papers/v12/pedregosa11a.html"
+ },
+ {
+  "id": "Peffers2007",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Ken",
+    "family": "Peffers"
+   },
+   {
+    "given": "Tuure",
+    "family": "Tuunanen"
+   },
+   {
+    "given": "Marcus A.",
+    "family": "Rothenberger"
+   },
+   {
+    "given": "Samir",
+    "family": "Chatterjee"
+   }
+  ],
+  "container-title": "Journal of Management Information Systems",
+  "volume": "24",
+  "issue": "3",
+  "page": "45-77",
+  "issued": {
+   "date-parts": [
+    [
+     2007
+    ]
+   ]
+  },
+  "DOI": "10.2753/MIS0742-1222240302",
+  "title": "A design science research methodology for information systems research"
+ },
+ {
+  "id": "Pelanek2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Radek",
+    "family": "Pelánek"
+   }
+  ],
+  "container-title": "User Modeling and User-Adapted Interaction",
+  "volume": "28",
+  "issue": "3",
+  "page": "207-235",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "DOI": "10.1007/s11257-018-9204-y",
+  "title": "The details matter: Methodological nuances in the evaluation of student models"
+ },
+ {
+  "id": "PoursabziSangdeh2021",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Forough",
+    "family": "Poursabzi-Sangdeh"
+   },
+   {
+    "given": "Daniel G",
+    "family": "Goldstein"
+   },
+   {
+    "given": "Jake M",
+    "family": "Hofman"
+   },
+   {
+    "family": "Wortman Vaughan",
+    "given": "Jennifer"
+   },
+   {
+    "given": "Hanna",
+    "family": "Wallach"
+   }
+  ],
+  "container-title": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "DOI": "10.1145/3411764.3445315",
+  "title": "Manipulating and measuring model interpretability",
+  "number": "237"
+ },
+ {
+  "id": "Prati2015",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Ronaldo C.",
+    "family": "Prati"
+   },
+   {
+    "given": "Gustavo E. A. P. A.",
+    "family": "Batista"
+   },
+   {
+    "given": "Diego F.",
+    "family": "Silva"
+   }
+  ],
+  "container-title": "Knowledge and Information Systems",
+  "volume": "45",
+  "issue": "1",
+  "page": "247-270",
+  "issued": {
+   "date-parts": [
+    [
+     2015
+    ]
+   ]
+  },
+  "DOI": "10.1007/s10115-014-0794-3",
+  "title": "Class imbalance revisited: A new experimental setup to assess the performance of treatment methods"
+ },
+ {
+  "id": "Prinsloo2017",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Paul",
+    "family": "Prinsloo"
+   },
+   {
+    "given": "Sharon",
+    "family": "Slade"
+   }
+  ],
+  "container-title": "Proceedings of the Seventh International Learning Analytics & Knowledge Conference",
+  "page": "46-55",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "DOI": "10.1145/3027385.3027406",
+  "title": "An elephant in the learning analytics room: The obligation to act"
+ },
+ {
+  "id": "RebeloMarcolino2025",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Markson",
+    "family": "Rebelo Marcolino"
+   },
+   {
+    "given": "Thiago",
+    "family": "Reis Porto"
+   },
+   {
+    "given": "Tiago",
+    "family": "Thompsen Primo"
+   },
+   {
+    "given": "Rafael",
+    "family": "Targino"
+   },
+   {
+    "given": "Vinicius",
+    "family": "Ramos"
+   },
+   {
+    "given": "Emanuel",
+    "family": "Marques Queiroga"
+   },
+   {
+    "given": "Roberto",
+    "family": "Munoz"
+   },
+   {
+    "given": "Cristian",
+    "family": "Cechinel"
+   }
+  ],
+  "container-title": "Scientific Reports",
+  "volume": "15",
+  "issue": "1",
+  "number": "9840",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "DOI": "10.1038/s41598-025-93918-1",
+  "title": "Student dropout prediction through machine learning optimization: Insights from Moodle log data"
+ },
+ {
+  "id": "Ribeiro2016",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Marco Tulio",
+    "family": "Ribeiro"
+   },
+   {
+    "given": "Sameer",
+    "family": "Singh"
+   },
+   {
+    "given": "Carlos",
+    "family": "Guestrin"
+   }
+  ],
+  "container-title": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+  "page": "1135-1144",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "DOI": "10.1145/2939672.2939778",
+  "title": "\"Why should I trust you?\": Explaining the predictions of any classifier"
+ },
+ {
+  "id": "Rudin2019",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Cynthia",
+    "family": "Rudin"
+   }
+  ],
+  "container-title": "Nature Machine Intelligence",
+  "volume": "1",
+  "issue": "5",
+  "page": "206-215",
+  "issued": {
+   "date-parts": [
+    [
+     2019
+    ]
+   ]
+  },
+  "DOI": "10.1038/s42256-019-0048-x",
+  "title": "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead"
+ },
+ {
+  "id": "Salih2024",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Ahmed M.",
+    "family": "Salih"
+   },
+   {
+    "given": "Zahra",
+    "family": "Raisi-Estabragh"
+   },
+   {
+    "family": "Boscolo Galazzo",
+    "given": "Ilaria"
+   },
+   {
+    "given": "Petia",
+    "family": "Radeva"
+   },
+   {
+    "given": "Steffen E.",
+    "family": "Petersen"
+   },
+   {
+    "given": "Karim",
+    "family": "Lekadir"
+   },
+   {
+    "given": "Gloria",
+    "family": "Menegaz"
+   }
+  ],
+  "container-title": "Advanced Intelligent Systems",
+  "volume": "7",
+  "issue": "1",
+  "number": "2400304",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "DOI": "10.1002/aisy.202400304",
+  "title": "A perspective on explainable artificial intelligence methods: SHAP and LIME"
+ },
+ {
+  "id": "Saltzer1975",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "J.H.",
+    "family": "Saltzer"
+   },
+   {
+    "given": "M.D.",
+    "family": "Schroeder"
+   }
+  ],
+  "container-title": "Proceedings of the IEEE",
+  "volume": "63",
+  "issue": "9",
+  "page": "1278-1308",
+  "issued": {
+   "date-parts": [
+    [
+     1975
+    ]
+   ]
+  },
+  "DOI": "10.1109/PROC.1975.9939",
+  "title": "The protection of information in computer systems"
+ },
+ {
+  "id": "Santos2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Miriam Seoane",
+    "family": "Santos"
+   },
+   {
+    "given": "Jastin Pompeu",
+    "family": "Soares"
+   },
+   {
+    "given": "Pedro Henrigues",
+    "family": "Abreu"
+   },
+   {
+    "given": "Helder",
+    "family": "Araujo"
+   },
+   {
+    "given": "Joao",
+    "family": "Santos"
+   }
+  ],
+  "container-title": "IEEE Computational Intelligence Magazine",
+  "volume": "13",
+  "issue": "4",
+  "page": "59-76",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "DOI": "10.1109/MCI.2018.2866730",
+  "title": "Cross-validation for imbalanced datasets: Avoiding overoptimistic and overfitting approaches"
+ },
+ {
+  "id": "Satyanarayan2017",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Arvind",
+    "family": "Satyanarayan"
+   },
+   {
+    "given": "Dominik",
+    "family": "Moritz"
+   },
+   {
+    "given": "Kanit",
+    "family": "Wongsuphasawat"
+   },
+   {
+    "given": "Jeffrey",
+    "family": "Heer"
+   }
+  ],
+  "container-title": "IEEE Transactions on Visualization and Computer Graphics",
+  "volume": "23",
+  "issue": "1",
+  "page": "341-350",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "DOI": "10.1109/TVCG.2016.2599030",
+  "title": "Vega-Lite: A grammar of interactive graphics"
+ },
+ {
+  "id": "Schreiber2000",
+  "type": "book",
+  "author": [
+   {
+    "family": "Schreiber",
+    "given": "Guus"
+   },
+   {
+    "family": "Akkermans",
+    "given": "Hans"
+   },
+   {
+    "family": "Anjewierden",
+    "given": "Anjo"
+   },
+   {
+    "family": "Hoog",
+    "given": "Robert",
+    "non-dropping-particle": "de"
+   },
+   {
+    "family": "Shadbolt",
+    "given": "Nigel R."
+   },
+   {
+    "family": "Velde",
+    "given": "Walter",
+    "non-dropping-particle": "Van de"
+   },
+   {
+    "family": "Wielinga",
+    "given": "Bob J."
+   }
+  ],
+  "title": "Knowledge engineering and management: The CommonKADS methodology",
+  "publisher": "MIT Press",
+  "issued": {
+   "date-parts": [
+    [
+     2000
+    ]
+   ]
+  },
+  "DOI": "10.7551/mitpress/4073.001.0001"
+ },
+ {
+  "id": "Schwendimann2017",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Beat A.",
+    "family": "Schwendimann"
+   },
+   {
+    "given": "Maria Jesus",
+    "family": "Rodríguez-Triana"
+   },
+   {
+    "given": "Andrii",
+    "family": "Vozniuk"
+   },
+   {
+    "given": "Luis P.",
+    "family": "Prieto"
+   },
+   {
+    "given": "Mina Shirvani",
+    "family": "Boroujeni"
+   },
+   {
+    "given": "Adrian",
+    "family": "Holzer"
+   },
+   {
+    "given": "Denis",
+    "family": "Gillet"
+   },
+   {
+    "given": "Pierre",
+    "family": "Dillenbourg"
+   }
+  ],
+  "container-title": "IEEE Transactions on Learning Technologies",
+  "volume": "10",
+  "issue": "1",
+  "page": "30-41",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "DOI": "10.1109/TLT.2016.2599522",
+  "title": "Perceiving learning at a glance: A systematic literature review of learning dashboard research"
+ },
+ {
+  "id": "Sculley2015",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Sculley",
+    "given": "D."
+   },
+   {
+    "family": "Holt",
+    "given": "Gary"
+   },
+   {
+    "family": "Golovin",
+    "given": "Daniel"
+   },
+   {
+    "family": "Davydov",
+    "given": "Eugene"
+   },
+   {
+    "family": "Phillips",
+    "given": "Todd"
+   },
+   {
+    "family": "Ebner",
+    "given": "Dietmar"
+   },
+   {
+    "family": "Chaudhary",
+    "given": "Vinay"
+   },
+   {
+    "family": "Young",
+    "given": "Michael"
+   },
+   {
+    "family": "Crespo",
+    "given": "Jean-François"
+   },
+   {
+    "family": "Dennison",
+    "given": "Dan"
+   }
+  ],
+  "title": "Hidden technical debt in machine learning systems",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "28",
+  "issued": {
+   "date-parts": [
+    [
+     2015
+    ]
+   ]
+  },
+  "URL": "https://proceedings.neurips.cc/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html",
+  "page": "2503-2511"
+ },
+ {
+  "id": "Sedrakyan2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Gayane",
+    "family": "Sedrakyan"
+   },
+   {
+    "given": "Jonna",
+    "family": "Malmberg"
+   },
+   {
+    "given": "Katrien",
+    "family": "Verbert"
+   },
+   {
+    "given": "Sanna",
+    "family": "Järvelä"
+   },
+   {
+    "given": "Paul A.",
+    "family": "Kirschner"
+   }
+  ],
+  "container-title": "Computers in Human Behavior",
+  "volume": "107",
+  "number": "105512",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.chb.2018.05.004",
+  "title": "Linking learning behavior analytics and learning science concepts: Designing a learning analytics dashboard for feedback to support learning regulation"
+ },
+ {
+  "id": "Siemens2011",
+  "type": "article-magazine",
+  "author": [
+   {
+    "family": "Siemens",
+    "given": "George"
+   },
+   {
+    "family": "Long",
+    "given": "Phil"
+   }
+  ],
+  "title": "Penetrating the fog: Analytics in learning and education",
+  "container-title": "EDUCAUSE Review",
+  "volume": "46",
+  "issue": "5",
+  "issued": {
+   "date-parts": [
+    [
+     2011
+    ]
+   ]
+  },
+  "URL": "https://er.educause.edu/articles/2011/9/penetrating-the-fog-analytics-in-learning-and-education",
+  "page": "30-40"
+ },
+ {
+  "id": "Slack2020",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Dylan",
+    "family": "Slack"
+   },
+   {
+    "given": "Sophie",
+    "family": "Hilgard"
+   },
+   {
+    "given": "Emily",
+    "family": "Jia"
+   },
+   {
+    "given": "Sameer",
+    "family": "Singh"
+   },
+   {
+    "given": "Himabindu",
+    "family": "Lakkaraju"
+   }
+  ],
+  "container-title": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+  "page": "180-186",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1145/3375627.3375830",
+  "title": "Fooling LIME and SHAP: Adversarial attacks on post hoc explanation methods"
+ },
+ {
+  "id": "Slade2013",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Sharon",
+    "family": "Slade"
+   },
+   {
+    "given": "Paul",
+    "family": "Prinsloo"
+   }
+  ],
+  "container-title": "American Behavioral Scientist",
+  "volume": "57",
+  "issue": "10",
+  "page": "1510-1529",
+  "issued": {
+   "date-parts": [
+    [
+     2013
+    ]
+   ]
+  },
+  "DOI": "10.1177/0002764213479366",
+  "title": "Learning analytics: Ethical issues and dilemmas"
+ },
+ {
+  "id": "Sokol2020",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Kacper",
+    "family": "Sokol"
+   },
+   {
+    "given": "Peter",
+    "family": "Flach"
+   }
+  ],
+  "container-title": "Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency",
+  "page": "56-67",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1145/3351095.3372870",
+  "title": "Explainability fact sheets: A framework for systematic assessment of explainable approaches"
+ },
+ {
+  "id": "Springer2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Aaron",
+    "family": "Springer"
+   },
+   {
+    "given": "Steve",
+    "family": "Whittaker"
+   }
+  ],
+  "container-title": "ACM Transactions on Interactive Intelligent Systems",
+  "volume": "10",
+  "issue": "4",
+  "page": "1-32",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1145/3374218",
+  "title": "Progressive disclosure: When, why, and how do users want algorithmic transparency information?"
+ },
+ {
+  "id": "Studer1998",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Rudi",
+    "family": "Studer"
+   },
+   {
+    "given": "V.Richard",
+    "family": "Benjamins"
+   },
+   {
+    "given": "Dieter",
+    "family": "Fensel"
+   }
+  ],
+  "container-title": "Data & Knowledge Engineering",
+  "volume": "25",
+  "issue": "1-2",
+  "page": "161-197",
+  "issued": {
+   "date-parts": [
+    [
+     1998
+    ]
+   ]
+  },
+  "DOI": "10.1016/S0169-023X(97)00056-6",
+  "title": "Knowledge engineering: Principles and methods"
+ },
+ {
+  "id": "Susnjak2022",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Teo",
+    "family": "Susnjak"
+   },
+   {
+    "given": "Gomathy Suganya",
+    "family": "Ramaswami"
+   },
+   {
+    "given": "Anuradha",
+    "family": "Mathrani"
+   }
+  ],
+  "container-title": "International Journal of Educational Technology in Higher Education",
+  "volume": "19",
+  "issue": "1",
+  "number": "12",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "DOI": "10.1186/s41239-021-00313-7",
+  "title": "Learning analytics dashboard: A tool for providing actionable insights to learners"
+ },
+ {
+  "id": "Tinto1975",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Vincent",
+    "family": "Tinto"
+   }
+  ],
+  "container-title": "Review of Educational Research",
+  "volume": "45",
+  "issue": "1",
+  "page": "89-125",
+  "issued": {
+   "date-parts": [
+    [
+     1975
+    ]
+   ]
+  },
+  "DOI": "10.3102/00346543045001089",
+  "title": "Dropout from higher education: A theoretical synthesis of recent research"
+ },
+ {
+  "id": "Tsai2017",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Yi-Shan",
+    "family": "Tsai"
+   },
+   {
+    "given": "Dragan",
+    "family": "Gašević"
+   }
+  ],
+  "container-title": "Proceedings of the Seventh International Learning Analytics & Knowledge Conference",
+  "page": "233-242",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2017
+    ]
+   ]
+  },
+  "DOI": "10.1145/3027385.3027400",
+  "title": "Learning analytics in higher education: Challenges and policies"
+ },
+ {
+  "id": "VanBuuren2018",
+  "type": "book",
+  "author": [
+   {
+    "family": "Buuren",
+    "given": "Stef",
+    "non-dropping-particle": "van"
+   }
+  ],
+  "title": "Flexible imputation of missing data",
+  "edition": "2",
+  "publisher": "CRC Press",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "DOI": "10.1201/9780429492259"
+ },
+ {
+  "id": "Venkatesh2008",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Viswanath",
+    "family": "Venkatesh"
+   },
+   {
+    "given": "Hillol",
+    "family": "Bala"
+   }
+  ],
+  "container-title": "Decision Sciences",
+  "volume": "39",
+  "issue": "2",
+  "page": "273-315",
+  "issued": {
+   "date-parts": [
+    [
+     2008
+    ]
+   ]
+  },
+  "DOI": "10.1111/j.1540-5915.2008.00192.x",
+  "title": "Technology acceptance model 3 and a research agenda on interventions"
+ },
+ {
+  "id": "Verbert2013",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Katrien",
+    "family": "Verbert"
+   },
+   {
+    "given": "Erik",
+    "family": "Duval"
+   },
+   {
+    "given": "Joris",
+    "family": "Klerkx"
+   },
+   {
+    "given": "Sten",
+    "family": "Govaerts"
+   },
+   {
+    "given": "José Luis",
+    "family": "Santos"
+   }
+  ],
+  "container-title": "American Behavioral Scientist",
+  "volume": "57",
+  "issue": "10",
+  "page": "1500-1509",
+  "issued": {
+   "date-parts": [
+    [
+     2013
+    ]
+   ]
+  },
+  "DOI": "10.1177/0002764213479363",
+  "title": "Learning analytics dashboard applications"
+ },
+ {
+  "id": "Verbert2020",
+  "type": "paper-conference",
+  "author": [
+   {
+    "given": "Katrien",
+    "family": "Verbert"
+   },
+   {
+    "given": "Xavier",
+    "family": "Ochoa"
+   },
+   {
+    "given": "Robin",
+    "family": "De Croon"
+   },
+   {
+    "given": "Raphael A.",
+    "family": "Dourado"
+   },
+   {
+    "given": "Tinne",
+    "family": "De Laet"
+   }
+  ],
+  "container-title": "Proceedings of the Tenth International Conference on Learning Analytics & Knowledge",
+  "page": "35-40",
+  "publisher": "ACM",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1145/3375462.3375504",
+  "title": "Learning analytics dashboards: The past, the present and the future"
+ },
+ {
+  "id": "Viberg2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Olga",
+    "family": "Viberg"
+   },
+   {
+    "given": "Mathias",
+    "family": "Hatakka"
+   },
+   {
+    "given": "Olof",
+    "family": "Bälter"
+   },
+   {
+    "given": "Anna",
+    "family": "Mavroudi"
+   }
+  ],
+  "container-title": "Computers in Human Behavior",
+  "volume": "89",
+  "page": "98-110",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.chb.2018.07.027",
+  "title": "The current landscape of learning analytics in higher education"
+ },
+ {
+  "id": "Visani2022",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Giorgio",
+    "family": "Visani"
+   },
+   {
+    "given": "Enrico",
+    "family": "Bagli"
+   },
+   {
+    "given": "Federico",
+    "family": "Chesani"
+   },
+   {
+    "given": "Alessandro",
+    "family": "Poluzzi"
+   },
+   {
+    "given": "Davide",
+    "family": "Capuzzo"
+   }
+  ],
+  "container-title": "Journal of the Operational Research Society",
+  "volume": "73",
+  "issue": "1",
+  "page": "91-101",
+  "issued": {
+   "date-parts": [
+    [
+     2022
+    ]
+   ]
+  },
+  "DOI": "10.1080/01605682.2020.1865846",
+  "title": "Statistical stability indices for LIME: Obtaining reliable explanations for machine learning models"
+ },
+ {
+  "id": "Wachter2018",
+  "type": "article-journal",
+  "author": [
+   {
+    "family": "Wachter",
+    "given": "Sandra"
+   },
+   {
+    "family": "Mittelstadt",
+    "given": "Brent"
+   },
+   {
+    "family": "Russell",
+    "given": "Chris"
+   }
+  ],
+  "title": "Counterfactual explanations without opening the black box: Automated decisions and the GDPR",
+  "container-title": "Harvard Journal of Law & Technology",
+  "volume": "31",
+  "issue": "2",
+  "page": "841-887",
+  "issued": {
+   "date-parts": [
+    [
+     2018
+    ]
+   ]
+  }
+ },
+ {
+  "id": "Waheed2020",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Hajra",
+    "family": "Waheed"
+   },
+   {
+    "given": "Saeed-Ul",
+    "family": "Hassan"
+   },
+   {
+    "given": "Naif Radi",
+    "family": "Aljohani"
+   },
+   {
+    "given": "Julie",
+    "family": "Hardman"
+   },
+   {
+    "given": "Salem",
+    "family": "Alelyani"
+   },
+   {
+    "given": "Raheel",
+    "family": "Nawaz"
+   }
+  ],
+  "container-title": "Computers in Human Behavior",
+  "volume": "104",
+  "number": "106189",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "DOI": "10.1016/j.chb.2019.106189",
+  "title": "Predicting academic performance of students from VLE big data using deep learning models"
+ },
+ {
+  "id": "Wang2025",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Yueying",
+    "family": "Wang"
+   }
+  ],
+  "container-title": "Scientific Reports",
+  "volume": "15",
+  "issue": "1",
+  "number": "35122",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "DOI": "10.1038/s41598-025-19159-4",
+  "title": "Artificial intelligence in student management systems to enhance academic performance monitoring and intervention"
+ },
+ {
+  "id": "Wilkinson2016",
+  "type": "article-journal",
+  "author": [
+   {
+    "given": "Mark D.",
+    "family": "Wilkinson"
+   },
+   {
+    "given": "Michel",
+    "family": "Dumontier"
+   },
+   {
+    "given": "IJsbrand Jan",
+    "family": "Aalbersberg"
+   },
+   {
+    "given": "Gabrielle",
+    "family": "Appleton"
+   },
+   {
+    "given": "Myles",
+    "family": "Axton"
+   },
+   {
+    "given": "Arie",
+    "family": "Baak"
+   },
+   {
+    "given": "Niklas",
+    "family": "Blomberg"
+   },
+   {
+    "given": "Jan-Willem",
+    "family": "Boiten"
+   },
+   {
+    "given": "Luiz Bonino",
+    "family": "da Silva Santos"
+   },
+   {
+    "given": "Philip E.",
+    "family": "Bourne"
+   },
+   {
+    "given": "Jildau",
+    "family": "Bouwman"
+   },
+   {
+    "given": "Anthony J.",
+    "family": "Brookes"
+   },
+   {
+    "given": "Tim",
+    "family": "Clark"
+   },
+   {
+    "given": "Mercè",
+    "family": "Crosas"
+   },
+   {
+    "given": "Ingrid",
+    "family": "Dillo"
+   },
+   {
+    "given": "Olivier",
+    "family": "Dumon"
+   },
+   {
+    "given": "Scott",
+    "family": "Edmunds"
+   },
+   {
+    "given": "Chris T.",
+    "family": "Evelo"
+   },
+   {
+    "given": "Richard",
+    "family": "Finkers"
+   },
+   {
+    "given": "Alejandra",
+    "family": "Gonzalez-Beltran"
+   },
+   {
+    "given": "Alasdair J.G.",
+    "family": "Gray"
+   },
+   {
+    "given": "Paul",
+    "family": "Groth"
+   },
+   {
+    "given": "Carole",
+    "family": "Goble"
+   },
+   {
+    "given": "Jeffrey S.",
+    "family": "Grethe"
+   },
+   {
+    "given": "Jaap",
+    "family": "Heringa"
+   },
+   {
+    "given": "Peter A.C",
+    "family": "’t Hoen"
+   },
+   {
+    "given": "Rob",
+    "family": "Hooft"
+   },
+   {
+    "given": "Tobias",
+    "family": "Kuhn"
+   },
+   {
+    "given": "Ruben",
+    "family": "Kok"
+   },
+   {
+    "given": "Joost",
+    "family": "Kok"
+   },
+   {
+    "given": "Scott J.",
+    "family": "Lusher"
+   },
+   {
+    "given": "Maryann E.",
+    "family": "Martone"
+   },
+   {
+    "given": "Albert",
+    "family": "Mons"
+   },
+   {
+    "given": "Abel L.",
+    "family": "Packer"
+   },
+   {
+    "given": "Bengt",
+    "family": "Persson"
+   },
+   {
+    "given": "Philippe",
+    "family": "Rocca-Serra"
+   },
+   {
+    "given": "Marco",
+    "family": "Roos"
+   },
+   {
+    "given": "Rene",
+    "family": "van Schaik"
+   },
+   {
+    "given": "Susanna-Assunta",
+    "family": "Sansone"
+   },
+   {
+    "given": "Erik",
+    "family": "Schultes"
+   },
+   {
+    "given": "Thierry",
+    "family": "Sengstag"
+   },
+   {
+    "given": "Ted",
+    "family": "Slater"
+   },
+   {
+    "given": "George",
+    "family": "Strawn"
+   },
+   {
+    "given": "Morris A.",
+    "family": "Swertz"
+   },
+   {
+    "given": "Mark",
+    "family": "Thompson"
+   },
+   {
+    "given": "Johan",
+    "family": "van der Lei"
+   },
+   {
+    "given": "Erik",
+    "family": "van Mulligen"
+   },
+   {
+    "given": "Jan",
+    "family": "Velterop"
+   },
+   {
+    "given": "Andra",
+    "family": "Waagmeester"
+   },
+   {
+    "given": "Peter",
+    "family": "Wittenburg"
+   },
+   {
+    "given": "Katherine",
+    "family": "Wolstencroft"
+   },
+   {
+    "given": "Jun",
+    "family": "Zhao"
+   },
+   {
+    "given": "Barend",
+    "family": "Mons"
+   }
+  ],
+  "container-title": "Scientific Data",
+  "volume": "3",
+  "issue": "1",
+  "number": "160018",
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "DOI": "10.1038/sdata.2016.18",
+  "title": "The FAIR guiding principles for scientific data management and stewardship"
+ },
+ {
+  "id": "Yu2020",
+  "type": "paper-conference",
+  "author": [
+   {
+    "family": "Yu",
+    "given": "Renzhe"
+   },
+   {
+    "family": "Li",
+    "given": "Qiujie"
+   },
+   {
+    "family": "Fischer",
+    "given": "Christian"
+   },
+   {
+    "family": "Doroudi",
+    "given": "Shayan"
+   },
+   {
+    "family": "Xu",
+    "given": "Di"
+   }
+  ],
+  "title": "Towards accurate and fair prediction of college success: Evaluating different sources of student data",
+  "editor": [
+   {
+    "family": "Rafferty",
+    "given": "Anna N."
+   },
+   {
+    "family": "Whitehill",
+    "given": "Jacob"
+   },
+   {
+    "family": "Cavalli-Sforza",
+    "given": "Violetta"
+   },
+   {
+    "family": "Romero",
+    "given": "Cristobal"
+   }
+  ],
+  "container-title": "Proceedings of the 13th International Conference on Educational Data Mining",
+  "page": "292-301",
+  "publisher": "International Educational Data Mining Society",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  }
+ }
+]

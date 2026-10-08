@@ -337,3 +337,6 @@ planned. The thesis also still says that no formal FAIR archive with a persisten
 - The commit that produced the reported model is cd633ba. Its ID changed from dbecf4d when the commit authors
   were rewritten; the code is the same.
 - A plain-language README at the root of the repository explains how to start the prototype with Docker.
+
+## Reference verification and Mendeley citations (8 October 2026)
+The thesis was replaced with the author's latest version. Every reference was verified against Crossref, DataCite and publisher records. All in-text citations are now Mendeley Cite content controls rendered in APA 7th edition by citeproc-js. See `Thesis_2_Reference_Verification_Report.md` for the results and `Thesis_2_references.csl.json` for the verified library.
