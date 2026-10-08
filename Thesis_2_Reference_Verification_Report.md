@@ -69,6 +69,7 @@ OpenAlex, Semantic Scholar and Google Books were rate-limited on this network, s
 | Reference | Correction |
 |---|---|
 | Ehsan et al. (2021) | The venue was wrong. The DOI resolves to the **Proceedings of the 2021 CHI Conference**, not *PACM HCI* 5(CSCW1). |
+| Chavan & Mitra (2022) | Full title restored: "Tcherly: A teacher-facing dashboard for online video lectures". Crossref stores the subtitle separately, and the first build of this list showed only "Tcherly:"; fixed in the current version. |
 | Kostopoulos et al. (2024) | Title corrected to "Explainable artificial intelligence-based decision support systems…". |
 | Albreiki et al. (2021) | Title reproduced as published: "…of student' performance prediction…". |
 | Gunasekara & Saarela (2024) | Editors, pages 887–892, publisher and DOI 10.5281/zenodo.12729987 added. |
