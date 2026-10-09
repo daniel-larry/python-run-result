@@ -1,0 +1,69 @@
+{
+ "thesis_sentences": 1221,
+ "source_sentences": 16604,
+ "flagged": [
+  {
+   "score": 0.477,
+   "part": "part5.txt",
+   "thesis": "Section 5.2 describes the experimental setup, including the dataset and evaluation methodology actually used.",
+   "source": "Gunasekara2025",
+   "source_sentence": "Experimental Setup This section describes the experimental setup used in the analysis."
+  },
+  {
+   "score": 0.466,
+   "part": "part5.txt",
+   "thesis": "The comparison most relevant to Research Question 3 is Brdnik et al. (2023), who report a published user study assessing perceived trust and satisfaction across multiple explanation techniques, including SHAP and LIME, within a learning-analytics context.",
+   "source": "Kim2024",
+   "source_sentence": "Assessing perceived trust and satisfaction with multiple explanation techniques in XAI-enhanced learning analytics."
+  },
+  {
+   "score": 0.452,
+   "part": "part2.txt",
+   "thesis": "Kaliisa et al. (2023) further report that although teachers are involved in designing teacher-facing dashboards, this involvement is mainly at the exploratory or problem-definition stage, with little input beyond it, which risks producing designs that do not fully reflect the needs of the practitioners they are intended to serve.",
+   "source": "Kaliisa2023",
+   "source_sentence": "Moreover, while teachers are involved in the design process, this is mainly at the exploratory/problem definition stage, with little input beyond this stage."
+  },
+  {
+   "score": 0.441,
+   "part": "part1.txt",
+   "thesis": "LA is defined as the measurement, collection, analysis, and reporting of data about learners and their contexts to understand and optimise learning (Siemens & Long, 2011).",
+   "source": "Chen2020",
+   "source_sentence": "At the first International Conference on Learning Analytics and Knowledge, learning analytics was defined as \u201cthe measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimising learning and the environments in which it occurs\u201d (Long, Siemens, Conole, & Ga\u0161evi\u0107, 2011)."
+  },
+  {
+   "score": 0.411,
+   "part": "part7.txt",
+   "thesis": "It could draw on the perceived usefulness and perceived ease of use constructs of TAM, which this thesis used only as a design lens.",
+   "source": "Sedrakyan2020",
+   "source_sentence": "Perceived usefulness, perceived ease of use, and user acceptance of information technology."
+  },
+  {
+   "score": 0.398,
+   "part": "part1.txt",
+   "thesis": "The Open University Learning Analytics Dataset (OULAD) serves as the empirical basis for the study.",
+   "source": "Adnan2021",
+   "source_sentence": "DATA DESCRIPTION We used a freely available Open University Learning Analytics Dataset (OULAD), provided by the Open University, UK."
+  },
+  {
+   "score": 0.389,
+   "part": "part3.txt",
+   "thesis": "TAM contributes the constructs of perceived usefulness and perceived ease of use, while the Agent and Communication Models describe the information needs of each stakeholder role.",
+   "source": "Sedrakyan2020",
+   "source_sentence": "Perceived usefulness, perceived ease of use, and user acceptance of information technology."
+  },
+  {
+   "score": 0.387,
+   "part": "part3.txt",
+   "thesis": "The secondary theoretical lens is the Technology Acceptance Model (TAM) developed by Davis (1989), which frames user adoption of information systems around perceived usefulness and perceived ease of use.",
+   "source": "Sedrakyan2020",
+   "source_sentence": "Perceived usefulness, perceived ease of use, and user acceptance of information technology."
+  },
+  {
+   "score": 0.386,
+   "part": "part1.txt",
+   "thesis": "Explainable AI (XAI) addresses this limitation through techniques such as SHapley Additive exPlanations (SHAP) and Local Interpretable Model-agnostic Explanations (LIME), which enable practitioners to identify the features that drove a particular prediction.",
+   "source": "Gunasekara2025",
+   "source_sentence": "The widely used post hoc methods, SHapley Additive exPlanations (SHAP) and Local Interpretable Model-Agnostic Explanations (LIME), improve the interpretability of such black box ML models."
+  }
+ ]
+}

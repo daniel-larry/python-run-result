@@ -1,0 +1,90 @@
+{
+ "total_words": 41805,
+ "matched_words": 100,
+ "passages": [
+  {
+   "part": "part1.txt",
+   "words": 15,
+   "text": "defined as the measurement collection analysis and reporting of data about learners and their contexts",
+   "sources": [
+    "Chen2020",
+    "Miteva2022"
+   ]
+  },
+  {
+   "part": "part2.txt",
+   "words": 14,
+   "text": "as the measurement collection analysis and reporting of data about learners and their contexts",
+   "sources": [
+    "Chen2020",
+    "Miteva2022"
+   ]
+  },
+  {
+   "part": "part0.txt",
+   "words": 11,
+   "text": "shapley additive explanations shap and local interpretable model agnostic explanations lime",
+   "sources": [
+    "Gunasekara2025",
+    "Salih2024"
+   ]
+  },
+  {
+   "part": "part1.txt",
+   "words": 11,
+   "text": "shapley additive explanations shap and local interpretable model agnostic explanations lime",
+   "sources": [
+    "Gunasekara2025",
+    "Salih2024"
+   ]
+  },
+  {
+   "part": "part3.txt",
+   "words": 9,
+   "text": "of perceived usefulness and perceived ease of use and",
+   "sources": [
+    "Venkatesh2008"
+   ]
+  },
+  {
+   "part": "part0.txt",
+   "words": 8,
+   "text": "early identification of students at risk of failing",
+   "sources": [
+    "Chen2020"
+   ]
+  },
+  {
+   "part": "part1.txt",
+   "words": 8,
+   "text": "early identification of students at risk of failing",
+   "sources": [
+    "Chen2020"
+   ]
+  },
+  {
+   "part": "part2.txt",
+   "words": 8,
+   "text": "deployed for trials at a higher education institution",
+   "sources": [
+    "Susnjak2022"
+   ]
+  },
+  {
+   "part": "part3.txt",
+   "words": 8,
+   "text": "of perceived usefulness and perceived ease of use",
+   "sources": [
+    "Venkatesh2008"
+   ]
+  },
+  {
+   "part": "part5.txt",
+   "words": 8,
+   "text": "gender region highest education imd band age band",
+   "sources": [
+    "Adnan2021"
+   ]
+  }
+ ]
+}
