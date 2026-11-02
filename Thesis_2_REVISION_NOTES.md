@@ -340,3 +340,14 @@ planned. The thesis also still says that no formal FAIR archive with a persisten
 
 ## Reference verification and Mendeley citations (8 October 2026)
 The thesis was replaced with the author's latest version. Every reference was verified against Crossref, DataCite and publisher records. All in-text citations are now Mendeley Cite content controls rendered in APA 7th edition by citeproc-js. See `Thesis_2_Reference_Verification_Report.md` for the results and `Thesis_2_references.csl.json` for the verified library.
+
+## Corrections following internal evaluation (Dr Afrifa James)
+
+1. Citations: APA 7 throughout from one verified library; 274 narrative and 77 parenthetical citations checked; no plain-text citations remain in the body.
+2. Objective 1 (Section 1.3) rewritten from a literature-review objective to a CommonKADS requirements-specification objective (to be confirmed with the supervisor).
+3. Defense preparation: presentation restructured; question preparation sheet prepared.
+4. Citation and reference counts aligned: 116 cited works, 116 references.
+5. Keywords line removed from the abstract.
+6. Bold formatting corrected: only run-in labels (C1 to C6 in Section 5.7; research-question labels in Sections 5.11 and 6.12) are bold; Appendix B captions set to the italic caption style.
+
+See Response_to_Evaluator_Comments.docx for the comment-by-comment response.
